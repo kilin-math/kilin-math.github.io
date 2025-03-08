@@ -15,13 +15,13 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 Jekyll also offers powerful support for code snippets:
 
 
-You can insert some formula $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$ in the middle of a sentence.
+You can insert some formula $f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$ in the middle of a sentence.
 
 You can also put large formulas in their own paragraph.
 
-$$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
+$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$
 
-That's it!
+That's it!  '\\(x^2\\)'
 
     
 The famous **Gauss circle problem** asks about the number $N(R)$ of points with integer coordinates inside a circle of a big radius $R$ centered at the origin. Estimating the distribution of $N(R) - \pi R^2$ when $R \to \infty$ is one of the major open problems in number theory. An important object in number theory is the **Riemann $\zeta$-function**, the properties of which are deeply related to the distribution of prime numbers. To approach the Gauss circle problem with new methods, we define an $SL(2, \mathbb{Z})$-analog of the Riemann $\zeta$ for any planar convex domain.
