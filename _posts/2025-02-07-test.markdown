@@ -14,13 +14,6 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 
 Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
 The famous **Gauss circle problem** asks about the number $N(R)$ of points with integer coordinates inside a circle of a big radius $R$ centered at the origin. Estimating the distribution of $N(R) - \pi R^2$ when $R \to \infty$ is one of the major open problems in number theory. An important object in number theory is the **Riemann $\zeta$-function**, the properties of which are deeply related to the distribution of prime numbers. To approach the Gauss circle problem with new methods, we define an $SL(2, \mathbb{Z})$-analog of the Riemann $\zeta$ for any planar convex domain.
 
