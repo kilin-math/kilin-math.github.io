@@ -16,7 +16,6 @@ You can find the source code for Jekyll at GitHub:
 
 [cv](https://kilin-math.github.io/files/cv.pdf)
 
-
-<embed src="https://kilin-math.github.io/files/me.jpg" type="application/jpg"/>
+![image tooltip here](/assets/me.jpg)
 
 [jekyll-organization]: https://github.com/jekyll
