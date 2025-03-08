@@ -22,8 +22,10 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+The famous **Gauss circle problem** asks about the number $N(R)$ of points with integer coordinates inside a circle of a big radius $R$ centered at the origin. Estimating the distribution of $N(R) - \pi R^2$ when $R \to \infty$ is one of the major open problems in number theory. An important object in number theory is the **Riemann $\zeta$-function**, the properties of which are deeply related to the distribution of prime numbers. To approach the Gauss circle problem with new methods, we define an $SL(2, \mathbb{Z})$-analog of the Riemann $\zeta$ for any planar convex domain.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Namely, for a given planar convex domain $C$, we consider a series $\sum f(p)$ whose terms are parametrized by elements $p \in SL(2, \mathbb{Z})$. Raising these terms to the power $s$ results in a function $F_C(s) = \sum f^s(p)$. We conjecture that the properties of the set of lattice points inside the $R$-dilatation of $C$ for $R \to \infty$ can be encoded in the analytic properties of $F_C(s)$. Thus, the project focuses on understanding the poles of $F_C(s)$. We will prove that if the (Euclidean) curvature of $C$ is uniformly separated from zero, then $\lim_{s \to {2/3}^+} (s - 2/3) F_C(s)$ is proportional to the affine length of $C$. The aim of the project is to prove that $F_C(s)$ can be analytically extended to $\mathbb{C}$, to show that $s = 2/3$ is a pole of $F_C(s)$, and to find other poles and zeros of it.
+
+The methods which will be used are as follows. Using Hata's work, we relate our summation formula over $SL(2, \mathbb{Z})$ to his summation formula over a certain Schauder basis via the Legendre transform. Then, we use known facts about the **Mordell-Tornheim function** (also called Witten zeta functions), which is our function $F_C$ in the case when $C$ is a parabola. We approximate $C$ by pieces of parabolas and write two-sided estimates.
+
+We derive some new number-theoretic formulas. The relationship between the $SL(2, \mathbb{Z})$ summation formula, the Farey fraction, and the Legendre transform is inherently beautiful and thus important. The project aims to establish for $SL(2, \mathbb{Z})$ summations the analogs of the **Poisson summation formula** and **Euler-Maclaurin formula**.
