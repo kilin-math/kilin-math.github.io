@@ -15,6 +15,15 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 Jekyll also offers powerful support for code snippets:
 
 
+You can insert some formula $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$ in the middle of a sentence.
+
+You can also put large formulas in their own paragraph.
+
+$$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
+
+That's it!
+
+    
 The famous **Gauss circle problem** asks about the number $N(R)$ of points with integer coordinates inside a circle of a big radius $R$ centered at the origin. Estimating the distribution of $N(R) - \pi R^2$ when $R \to \infty$ is one of the major open problems in number theory. An important object in number theory is the **Riemann $\zeta$-function**, the properties of which are deeply related to the distribution of prime numbers. To approach the Gauss circle problem with new methods, we define an $SL(2, \mathbb{Z})$-analog of the Riemann $\zeta$ for any planar convex domain.
 
 Namely, for a given planar convex domain $C$, we consider a series $\sum f(p)$ whose terms are parametrized by elements $p \in SL(2, \mathbb{Z})$. Raising these terms to the power $s$ results in a function $F_C(s) = \sum f^s(p)$. We conjecture that the properties of the set of lattice points inside the $R$-dilatation of $C$ for $R \to \infty$ can be encoded in the analytic properties of $F_C(s)$. Thus, the project focuses on understanding the poles of $F_C(s)$. We will prove that if the (Euclidean) curvature of $C$ is uniformly separated from zero, then $\lim_{s \to {2/3}^+} (s - 2/3) F_C(s)$ is proportional to the affine length of $C$. The aim of the project is to prove that $F_C(s)$ can be analytically extended to $\mathbb{C}$, to show that $s = 2/3$ is a pole of $F_C(s)$, and to find other poles and zeros of it.
