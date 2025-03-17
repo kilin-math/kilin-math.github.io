@@ -7,7 +7,7 @@ categories: Chinese
 
 
 
-![image](/assets/scientists.png){: style="float: right; width: 20em"}
+![image](/assets/scientists.png){: style="float: center; width: 20em"}
 
 This is from the Buddhist temple in Harbin.
 
