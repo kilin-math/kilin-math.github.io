@@ -54,8 +54,3 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-defaults:
-  - scope:
-      path: "_posts"
-    values:
-      layout: "posts"

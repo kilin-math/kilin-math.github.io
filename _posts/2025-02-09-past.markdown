@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Saint Petersburg mathematicians and their discoveries"
+date:   2025-02-07 10:50:12 +0800
+categories: book
+---
+
+You’ll find the book in [here](../../../../../files/book-spb.pdf).
+
+> “What is the most important thing a scientist should cultivate in himself? 
+> One should get rid of excessive ambition. One should not think that only a genius can be happy. 
+> One must learn to appreciate even a small achievement, 
+> to rejoice in it, and never overestimate oneself. One has to cultivate a love for work. 
+> One has to understand and cultivate the joy of learning, which is almost the same as the joy of life.
+>  Happiness is when your life’s work is needed.” Sobolev, Sergei Lvovich
+
+    

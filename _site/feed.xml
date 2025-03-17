@@ -1,41 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-08T13:59:13+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">kilin math</title><subtitle>number theory, tropical geometry, history of mathematics, China</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2025/03/08/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-03-08T10:50:12+08:00</published><updated>2025-03-08T10:50:12+08:00</updated><id>http://localhost:4000/jekyll/update/2025/03/08/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/03/08/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-09T19:42:04+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">kilin math</title><subtitle>number theory, tropical geometry, history of mathematics, China</subtitle><entry><title type="html">Saint Petersburg mathematicians and their discoveries</title><link href="http://localhost:4000/book/2025/02/07/saint.html" rel="alternate" type="text/html" title="Saint Petersburg mathematicians and their discoveries" /><published>2025-02-07T10:50:12+08:00</published><updated>2025-02-07T10:50:12+08:00</updated><id>http://localhost:4000/book/2025/02/07/saint</id><content type="html" xml:base="http://localhost:4000/book/2025/02/07/saint.html"><![CDATA[<p>You’ll find the book in <a href="../../../../../files/book-spb.pdf">here</a>.</p>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<p>“What is the most important thing a scientist should cultivate in himself? 
+One should get rid of excessive ambition. One should not think that only a genius can be happy. 
+One must learn to appreciate even a small achievement, 
+to rejoice in it, and never overestimate oneself. One has to cultivate a love for work. 
+One has to understand and cultivate the joy of learning, which is almost the same as the joy of life.
+ Happiness is when your life’s work is needed.” Sobolev, Sergei Lvovich</p>]]></content><author><name></name></author><category term="book" /><summary type="html"><![CDATA[You’ll find the book in here.]]></summary></entry><entry><title type="html">Saint Petersburg mathematicians and their discoveries</title><link href="http://localhost:4000/book/2025/02/07/past.html" rel="alternate" type="text/html" title="Saint Petersburg mathematicians and their discoveries" /><published>2025-02-07T10:50:12+08:00</published><updated>2025-02-07T10:50:12+08:00</updated><id>http://localhost:4000/book/2025/02/07/past</id><content type="html" xml:base="http://localhost:4000/book/2025/02/07/past.html"><![CDATA[<p>You’ll find the book in <a href="../../../../../files/book-spb.pdf">here</a>.</p>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
-
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
-
-<p>Jekyll also offers powerful support for code snippets:</p>
-
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
-
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Saint</title><link href="http://localhost:4000/book/2025/02/07/test.html" rel="alternate" type="text/html" title="Saint" /><published>2025-02-07T10:50:12+08:00</published><updated>2025-02-07T10:50:12+08:00</updated><id>http://localhost:4000/book/2025/02/07/test</id><content type="html" xml:base="http://localhost:4000/book/2025/02/07/test.html"><![CDATA[<p>You’ll find the book in <a href="../../../../../files/book-spb.pdf">here</a> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
-
-<p>Jekyll requires blog post files to be named according to the following format:</p>
-
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
-
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
-
-<p>Jekyll also offers powerful support for code snippets:</p>
-
-<p>You can insert some formula $f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$ in the middle of a sentence.</p>
-
-<p>You can also put large formulas in their own paragraph.</p>
-
-<p>$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$</p>
-
-<p>That’s it!  ‘\(x^2\)’</p>
-
-<p>The famous <strong>Gauss circle problem</strong> asks about the number $N(R)$ of points with integer coordinates inside a circle of a big radius $R$ centered at the origin. Estimating the distribution of $N(R) - \pi R^2$ when $R \to \infty$ is one of the major open problems in number theory. An important object in number theory is the <strong>Riemann $\zeta$-function</strong>, the properties of which are deeply related to the distribution of prime numbers. To approach the Gauss circle problem with new methods, we define an $SL(2, \mathbb{Z})$-analog of the Riemann $\zeta$ for any planar convex domain.</p>
-
-<p>Namely, for a given planar convex domain $C$, we consider a series $\sum f(p)$ whose terms are parametrized by elements $p \in SL(2, \mathbb{Z})$. Raising these terms to the power $s$ results in a function $F_C(s) = \sum f^s(p)$. We conjecture that the properties of the set of lattice points inside the $R$-dilatation of $C$ for $R \to \infty$ can be encoded in the analytic properties of $F_C(s)$. Thus, the project focuses on understanding the poles of $F_C(s)$. We will prove that if the (Euclidean) curvature of $C$ is uniformly separated from zero, then $\lim_{s \to {2/3}^+} (s - 2/3) F_C(s)$ is proportional to the affine length of $C$. The aim of the project is to prove that $F_C(s)$ can be analytically extended to $\mathbb{C}$, to show that $s = 2/3$ is a pole of $F_C(s)$, and to find other poles and zeros of it.</p>
-
-<p>The methods which will be used are as follows. Using Hata’s work, we relate our summation formula over $SL(2, \mathbb{Z})$ to his summation formula over a certain Schauder basis via the Legendre transform. Then, we use known facts about the <strong>Mordell-Tornheim function</strong> (also called Witten zeta functions), which is our function $F_C$ in the case when $C$ is a parabola. We approximate $C$ by pieces of parabolas and write two-sided estimates.</p>
-
-<p>We derive some new number-theoretic formulas. The relationship between the $SL(2, \mathbb{Z})$ summation formula, the Farey fraction, and the Legendre transform is inherently beautiful and thus important. The project aims to establish for $SL(2, \mathbb{Z})$ summations the analogs of the <strong>Poisson summation formula</strong> and <strong>Euler-Maclaurin formula</strong>.</p>]]></content><author><name></name></author><category term="book" /><summary type="html"><![CDATA[You’ll find the book in here directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<blockquote>
+  <p>“What is the most important thing a scientist should cultivate in himself? 
+One should get rid of excessive ambition. One should not think that only a genius can be happy. 
+One must learn to appreciate even a small achievement, 
+to rejoice in it, and never overestimate oneself. One has to cultivate a love for work. 
+One has to understand and cultivate the joy of learning, which is almost the same as the joy of life.
+ Happiness is when your life’s work is needed.” Sobolev, Sergei Lvovich</p>
+</blockquote>]]></content><author><name></name></author><category term="book" /><summary type="html"><![CDATA[You’ll find the book in here.]]></summary></entry></feed>
