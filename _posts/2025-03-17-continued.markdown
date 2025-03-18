@@ -12,10 +12,10 @@ $a_{0}\in \mathbb{Z} , a_{n}\in \mathbb{Z}_{\geq 0},
 \quad \xi=a_0+\cfrac{1}{a_1+\cfrac{1}{a_2+\cfrac{1}{a_3+\ddots}}}=\left[a_0, a_1, \dotsc\right].$
 
 Define
-\begin{align*}
+\begin{aligned}
 & h_{-2}=0 \quad h_{-1}=1 \quad h_n=a_n h_{n-1}+h_{n-2} \\
 & k_{-2}=1 \quad k_{-1}=0 \quad k_n=a_n k_{n-1}+k_{n-2}.
-\end{align*}
+\end{aligned}
 
 
 
