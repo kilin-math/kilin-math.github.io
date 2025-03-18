@@ -37,3 +37,5 @@ for $\xi=[a_0,\dots,a_{N+1}]$.
 I know at least two elementary proofs of these formulae. 
 I believe that these formulae were discovered before. 
 Have you seen something like that?
+
+[asked here](https://mathoverflow.net/questions/489340/new-summation-formulae-for-continued-fractions-reference-request?noredirect=1#comment1276530_489340)
