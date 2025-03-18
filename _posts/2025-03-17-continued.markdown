@@ -8,7 +8,8 @@ categories: Chinese
 
 Consider a simple continued fraction
 
-$$a_{0}\in \mathbb{Z} , a_{n}\in \mathbb{Z}_{\geq 0}, \quad \xi=a_0+\cfrac{1}{a_1+\cfrac{1}{a_2+\cfrac{1}{a_3+\ddots}}}=\left[a_0, a_1, \dotsc\right] .$$
+\(a_{0}\in \mathbb{Z} , a_{n}\in \mathbb{Z}_{\geq 0}, 
+\quad \xi=a_0+\cfrac{1}{a_1+\cfrac{1}{a_2+\cfrac{1}{a_3+\ddots}}}=\left[a_0, a_1, \dotsc\right] .\)
 
 Define
 \begin{align*}
