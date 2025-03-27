@@ -24,4 +24,7 @@ Then the following congruences hold:
  $S_p^{(3)} \equiv 0 \pmod{p^2}$ 
 
  $S_p^{(4)} \equiv 0 \pmod{p}$
+ 
+ 
+ I conjectured that on 21 March 2025 and proved on 22 March 2025.
 
