@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Lecture notes about sandpiles"
+date:   2025-03-17 10:50:12 +0800
+categories: sand
+---
+
+
+In 2017 I was lecturing about sandpiles in Dubna to the highschool students.
+Then I had the notes, I typed them into latex with intention to publish them as a small book someday.
+Today I decided not to publish them at all since it is impossible to read independently
+without following a lecture.
+
+He is this [draft](/assets/sand/draft-rus.pdf)
