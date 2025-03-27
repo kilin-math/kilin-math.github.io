@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lecture notes about sandpiles"
-date:   2025-03-17 10:50:12 +0800
+date:   2025-03-27 10:50:12 +0800
 categories: sand
 ---
 
