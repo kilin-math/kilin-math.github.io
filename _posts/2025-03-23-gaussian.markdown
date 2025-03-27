@@ -8,18 +8,20 @@ categories:
 
  The classical Wolstenholme's theorem states that for any prime $p \geq 5$,
 
-$$1+\frac{1}{2}+\frac{1}{3}+\dots + \frac{1}{p-1}\equiv 0 \pmod {p^2}.$$
+$1+\frac{1}{2}+\frac{1}{3}+\dots + \frac{1}{p-1}\equiv 0 \pmod {p^2}.$
 
 
  For a prime $p>5$ and $k\geq 1$, define:
 \begin{equation}
-S_p^{(k)} = \sum_{\substack{1\leq n,m\leq p-1\\ (p,mi+n)=1}} \frac{1}{(mi+n)^k}
+S_p^{(k)} = \sum \frac{1}{(mi+n)^k},  1\leq n,m\leq p-1
 \end{equation}
 Then the following congruences hold:
-\begin{enumerate}
-\item $S_p^{(1)} \equiv 0 \pmod{p^4}$ 
-\item $S_p^{(2)} \equiv 0 \pmod{p^3}$ 
-\item $S_p^{(3)} \equiv 0 \pmod{p^2}$ 
-\item $S_p^{(4)} \equiv 0 \pmod{p}$
-\end{enumerate}
+
+ $S_p^{(1)} \equiv 0 \pmod{p^4}$ 
+
+ $S_p^{(2)} \equiv 0 \pmod{p^3}$ 
+
+ $S_p^{(3)} \equiv 0 \pmod{p^2}$ 
+
+ $S_p^{(4)} \equiv 0 \pmod{p}$
 
