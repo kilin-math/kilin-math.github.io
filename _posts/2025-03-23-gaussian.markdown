@@ -31,3 +31,5 @@ Then the following congruences hold:
  
  Immediately, Bo Jiang and Zhi-Wei Sun [proved](https://arxiv.org/pdf/2504.12242) a conjecture from my article. 
 
+- [x] #739
+- [ ] 
