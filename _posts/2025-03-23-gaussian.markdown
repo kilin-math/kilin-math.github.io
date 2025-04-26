@@ -31,19 +31,3 @@ Then the following congruences hold:
  
  Immediately, Bo Jiang and Zhi-Wei Sun [proved](https://arxiv.org/pdf/2504.12242) a conjecture from my article. 
 
-- [x] #739
-- [ ] 
-
-<details>
-<summary>What to do next</summary>
-
-
-</details>
-
-Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].
-
-[^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-This is a second line.
