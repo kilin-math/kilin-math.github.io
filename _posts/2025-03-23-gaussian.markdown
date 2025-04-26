@@ -27,4 +27,7 @@ Then the following congruences hold:
  
  
  I conjectured that on 21 March 2025 and proved on 22 March 2025.
+ [Here](https://arxiv.org/abs/2504.07978) is this article on arxiv.
+ 
+ Immediately, Bo Jiang and Zhi-Wei Sun [proved](https://arxiv.org/pdf/2504.12242) a conjecture from my article. 
 
