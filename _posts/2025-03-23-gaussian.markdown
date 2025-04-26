@@ -35,13 +35,8 @@ Then the following congruences hold:
 - [ ] 
 
 <details>
-<summary>My top languages</summary>
+<summary>What to do next</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
 
 </details>
 
