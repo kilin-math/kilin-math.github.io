@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First talk about telescoping over topographs"
-date:   2025-03-31 10:50:12 +0800
+date:   2025-04-30 10:50:12 +0800
 categories: numbers
 ---
 I gave a talk (first out of three) at [ICMS](https://icms.bg/event/three-lectures-on-binary-quadratic-forms-and-conways-topographs-by-nikita-kalinin-part-one/), Sofia.
