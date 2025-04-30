@@ -41,6 +41,6 @@ Have you seen something like that?
 [asked here](https://mathoverflow.net/questions/489340/new-summation-formulae-for-continued-fractions-reference-request?noredirect=1#comment1276530_489340)
 
 
-chatgpt [deepsearch](https://chatgpt.com/s/dr_680c598d7b2881919325ad976b04191d) answers better: 
+chatgpt [deepresearch](https://chatgpt.com/s/dr_680c598d7b2881919325ad976b04191d) answers better: 
 
 ![image tooltip here](/assets/numbers/26042025.png)
