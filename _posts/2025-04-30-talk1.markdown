@@ -13,5 +13,7 @@ I gave a talk (first out of three) at [ICMS](https://icms.bg/event/three-lecture
 [video](https://youtu.be/z7Pz33JyCuA) is also available.
 
 
+[ICMS](https://icms.bg/event/three-lectures-on-binary-quadratic-forms-and-conways-topographs-by-nikita-kalinin-part-two/), Sofia.
+
 [Here](/assets/numbers/telescopic_presentation2.pdf) is the slides of the second talk.
 [video](https://youtu.be/OtvKQpH6yl8) of the second talk is also available.
