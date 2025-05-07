@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First talk about telescoping over topographs"
+title:  "Talks in Sofia about telescoping over topographs"
 date:   2025-04-30 10:50:12 +0800
 categories: numbers
 ---
