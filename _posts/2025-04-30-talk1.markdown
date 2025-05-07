@@ -4,7 +4,14 @@ title:  "First talk about telescoping over topographs"
 date:   2025-04-30 10:50:12 +0800
 categories: numbers
 ---
+Better to start with Cormac C'Sullivan Topographs and some infinite series 
+https://www.youtube.com/watch?v=1ZtSAlNT810
+
 I gave a talk (first out of three) at [ICMS](https://icms.bg/event/three-lectures-on-binary-quadratic-forms-and-conways-topographs-by-nikita-kalinin-part-one/), Sofia.
-[Here](/assets/numbers/telescopic_presentation1_.pdf) is the slides.
+[Here](/assets/numbers/telescopic_presentation1.pdf) is the slides.
 
 [video](https://youtu.be/z7Pz33JyCuA) is also available.
+
+
+[Here](/assets/numbers/telescopic_presentation2.pdf) is the slides of the second talk.
+[video](https://youtu.be/OtvKQpH6yl8) of the second talk is also available.
