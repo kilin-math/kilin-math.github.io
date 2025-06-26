@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bunyakovky's inequality"
+title:  "Bunyakovsky's inequality"
 date:   2025-06-25 10:50:12 +0800
 categories: history
 ---
