@@ -12,7 +12,7 @@ asks whether Bunyakovsky’s name should appear in what is usually called the Ca
 
 
 For a deeper historical perspective, see S. Kichenassamy’s lecture 
-[]“The Cauchy-Bunyakovsky inequality and its mathematical interpretations,”](https://www.mathnet.ru/php/seminars.phtml?option_lang=eng&presentid=30018) complete with slides.
+[“The Cauchy-Bunyakovsky inequality and its mathematical interpretations,”](https://www.mathnet.ru/php/seminars.phtml?option_lang=eng&presentid=30018) complete with slides.
 
 
 Kichenassamy develops these ideas further in his article [“Apodictic discourse and the Cauchy-Bunyakovsky-Schwarz inequality”](https://arxiv.org/abs/2504.19543) 
