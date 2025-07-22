@@ -9,3 +9,4 @@ many grains of sand piled up will make a pagoda.</p>
 
 ![image](/assets/seal.jpg){: style="float: right; width: 20em"}
 
+<pre>{{ site.categories | inspect }}</pre>
