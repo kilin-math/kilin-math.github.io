@@ -4,6 +4,11 @@ title:  "Talks in Sofia about telescoping over topographs"
 date:   2025-04-30 10:50:12 +0800
 categories: numbers
 ---
+
+**Added 22 July 2025:** I finished the first [draft](/assets/numbers/telescopic.pdf) draft of the article!
+
+
+
 Better to start with Cormac C'Sullivan Topographs and some infinite series [talk](https://www.youtube.com/watch?v=1ZtSAlNT810) on Youtube. 
 
 
