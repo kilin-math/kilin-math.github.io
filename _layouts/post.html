@@ -28,14 +28,17 @@ layout: default
             • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
                     itemprop="name">{{ page.author }}</span></span>
             {%- endif -%}
+            {% if page.categories %}
+        <span class="post-categories">
+          Tag: 
+          {% for category in page.categories %}
+            <a href="/categories/#{{ category | slugify }}">{{ category }}</a>
+          {% endfor %}
+        </span>
+      {% endif %}
         </p>
         </div>
-          <div class="post-categories">
-  			Tag: 
-  			{% for category in page.categories %}
-    		<a href="/categories/#{{ category | slugify }}">{{ category }}</a>
-  			{% endfor %}
-			</div>
+             
 
     {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
