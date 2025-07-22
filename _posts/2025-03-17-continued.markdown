@@ -4,6 +4,8 @@ title:  "Continued fractions"
 date:   2025-03-17 10:50:12 +0800
 categories: numbers
 ---
+added 22 July 2025: [preprint](/assets/numbers/pi.pdf) about the Legendre duality for these summations of Farey series.
+
 
 
 Consider a simple continued fraction
