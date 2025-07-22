@@ -13,8 +13,6 @@ layout: default
 </script>
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
     <header class="post-header">
@@ -25,30 +23,28 @@ layout: default
                 {{ page.date | date: date_format }}
             </time>
             {%- if page.author -%}
-            • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
-                    itemprop="name">{{ page.author }}</span></span>
+                • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                    <span class="p-author h-card" itemprop="name">{{ page.author }}</span>
+                </span>
             {%- endif -%}
             {% if page.categories %}
-        <span class="post-categories">
-          Tag: 
-          {% for category in page.categories %}
-            <a href="/categories/#{{ category | slugify }}">{{ category }}</a>
-          {% endfor %}
-        </span>
-      {% endif %}
+                • <span class="post-categories">
+                    Tag: 
+                    {% for category in page.categories %}
+                        <a href="/categories/#{{ category | slugify }}">{{ category }}</a>
+                    {% endfor %}
+                </span>
+            {% endif %}
         </p>
-        </div>
-             
-
-    {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-    {%- endif -%}
-
-    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-  
     </header>
 
     <div class="post-content e-content" itemprop="articleBody">
         {{ content }}
-    
+    </div>
+
+    {%- if site.disqus.shortname -%}
+        {%- include disqus_comments.html -%}
+    {%- endif -%}
+
+    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
