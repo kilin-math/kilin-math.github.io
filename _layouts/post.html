@@ -29,11 +29,7 @@ layout: default
                     itemprop="name">{{ page.author }}</span></span>
             {%- endif -%}
         </p>
-    </header>
-
-    <div class="post-content e-content" itemprop="articleBody">
-        {{ content }}
-    </div>
+        </div>
 
     {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
@@ -46,4 +42,9 @@ layout: default
     <a href="/categories/#{{ category | slugify }}">{{ category }}</a>
   {% endfor %}
 </div>
+    </header>
+
+    <div class="post-content e-content" itemprop="articleBody">
+        {{ content }}
+    
 </article>
