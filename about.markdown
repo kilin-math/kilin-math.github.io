@@ -11,3 +11,10 @@ I am a mathematican, I work as Associate professor at Guangdong Technion-Israel 
 
 ![image tooltip here](/assets/me.jpg)
 
+
+**Recent articles:**
+
+[Evaluation of lattice sums via telescoping over topographs](/assets/numbers/telescopic.pdf)
+ 
+[Legendre duality for certain summations over the Farey pairs](/assets/numbers/pi.pdf)
+
