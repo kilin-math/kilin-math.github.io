@@ -11,4 +11,4 @@ Then I had the notes, I typed them into latex with intention to publish them as 
 Today I decided not to publish them at all since it is impossible to read independently
 without following a lecture.
 
-He is this [draft](/assets/sand/draft-rus.pdf)
+Here it is: [draft](/assets/sand/draft-rus.pdf)
