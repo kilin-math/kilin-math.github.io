@@ -1,11 +1,139 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-09T19:42:04+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">kilin math</title><subtitle>number theory, tropical geometry, history of mathematics, China</subtitle><entry><title type="html">Saint Petersburg mathematicians and their discoveries</title><link href="http://localhost:4000/book/2025/02/07/saint.html" rel="alternate" type="text/html" title="Saint Petersburg mathematicians and their discoveries" /><published>2025-02-07T10:50:12+08:00</published><updated>2025-02-07T10:50:12+08:00</updated><id>http://localhost:4000/book/2025/02/07/saint</id><content type="html" xml:base="http://localhost:4000/book/2025/02/07/saint.html"><![CDATA[<p>You’ll find the book in <a href="../../../../../files/book-spb.pdf">here</a>.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-07-24T10:23:47+08:00</updated><id>http://localhost:4000/feed.xml</id><subtitle>number theory, tropical geometry, history of mathematics, China</subtitle><entry><title type="html">Даосизм</title><link href="http://localhost:4000/chinese/2025/07/19/mat.html" rel="alternate" type="text/html" title="Даосизм" /><published>2025-07-19T10:50:12+08:00</published><updated>2025-07-19T10:50:12+08:00</updated><id>http://localhost:4000/chinese/2025/07/19/mat</id><content type="html" xml:base="http://localhost:4000/chinese/2025/07/19/mat.html"><![CDATA[<p>云如何是母。师云。贪爱为母。尔一念心入欲界中。求其贪爱。唯见诸法空相。处处无著。名为害母  <a href="https://www.sohu.com/a/240207506_99944394">отсюда</a></p>
 
-<p>“What is the most important thing a scientist should cultivate in himself? 
-One should get rid of excessive ambition. One should not think that only a genius can be happy. 
-One must learn to appreciate even a small achievement, 
-to rejoice in it, and never overestimate oneself. One has to cultivate a love for work. 
-One has to understand and cultivate the joy of learning, which is almost the same as the joy of life.
- Happiness is when your life’s work is needed.” Sobolev, Sergei Lvovich</p>]]></content><author><name></name></author><category term="book" /><summary type="html"><![CDATA[You’ll find the book in here.]]></summary></entry><entry><title type="html">Saint Petersburg mathematicians and their discoveries</title><link href="http://localhost:4000/book/2025/02/07/past.html" rel="alternate" type="text/html" title="Saint Petersburg mathematicians and their discoveries" /><published>2025-02-07T10:50:12+08:00</published><updated>2025-02-07T10:50:12+08:00</updated><id>http://localhost:4000/book/2025/02/07/past</id><content type="html" xml:base="http://localhost:4000/book/2025/02/07/past.html"><![CDATA[<p>You’ll find the book in <a href="../../../../../files/book-spb.pdf">here</a>.</p>
+<p>Это оригинал фразы “Некто спросил Линь Цзы: “Что такое мать?”
+“Алчность и страсть есть мать, - ответил мастер, -
+Когда сосредоточенным сознанием
+мы вступаем в чувственный мир,
+мир страстей и вожделений,
+и пытаемся найти все эти страсти,
+но видим лишь стоящую за ними пустоту,
+когда нигде нет привязанностей,
+это называется
+убить свою мать”.” из <a href="https://www.youtube.com/watch?v=axIpDDDP2io">песенки</a> Калугина.<br />
+Это в чатике китайских математиков что-то заговорили про даосов, и я пошёл с козырей.</p>]]></content><author><name></name></author><category term="chinese" /><summary type="html"><![CDATA[云如何是母。师云。贪爱为母。尔一念心入欲界中。求其贪爱。唯见诸法空相。处处无著。名为害母 отсюда]]></summary></entry><entry><title type="html">Bunyakovsky’s inequality</title><link href="http://localhost:4000/history/2025/06/25/bunyakovsky.html" rel="alternate" type="text/html" title="Bunyakovsky’s inequality" /><published>2025-06-25T10:50:12+08:00</published><updated>2025-06-25T10:50:12+08:00</updated><id>http://localhost:4000/history/2025/06/25/bunyakovsky</id><content type="html" xml:base="http://localhost:4000/history/2025/06/25/bunyakovsky.html"><![CDATA[<p>A recent <a href="https://hal.science/hal-05052554v1/file/review-spbmath.pdf">review</a> of the volume <a href="https://sites.google.com/view/spbmath">Saint Petersburg Mathematicians and Their Discoveries</a>
+(also available in Russian, <a href="https://biblio.mccme.ru/node/291128">Математики Санкт-Петербурга и их открытия. Сборник статей</a></p>
+
+<p>asks whether Bunyakovsky’s name should appear in what is usually called the Cauchy–Bunyakovsky–Schwarz inequality.</p>
+
+<p>For a deeper historical perspective, see S. Kichenassamy’s lecture 
+<a href="https://www.mathnet.ru/php/seminars.phtml?option_lang=eng&amp;presentid=30018">“The Cauchy-Bunyakovsky inequality and its mathematical interpretations,”</a> complete with slides.</p>
+
+<p>Kichenassamy develops these ideas further in his article <a href="https://arxiv.org/abs/2504.19543">“Apodictic discourse and the Cauchy-Bunyakovsky-Schwarz inequality”</a> 
+published in <em>Gaṇita Bhāratī 42 (1), 2020, 1–19</em>.</p>
+
+<blockquote>
+  <p><em>“The various interpretations of Bunyakovsky’s inequality are therefore not logical developments of a single idea. 
+Unlike nested Matryoshka dolls, each of which is a copy of the next one, only smaller, the sequence of these 
+inequalities rather resembles Fabergé eggs, each containing a ‘surprise’ entirely different from the outer shape… 
+Historical investigation provides a deeper understanding of modern mathematics that cannot be inferred from the modern stage alone.”</em></p>
+</blockquote>
+
+<p>This evocative Fabergé-egg metaphor is one of the most striking images in the paper and captures the layered—but not necessarily nested—evolution of the inequality over time.</p>]]></content><author><name></name></author><category term="history" /><summary type="html"><![CDATA[A recent review of the volume Saint Petersburg Mathematicians and Their Discoveries (also available in Russian, Математики Санкт-Петербурга и их открытия. Сборник статей asks whether Bunyakovsky’s name should appear in what is usually called the Cauchy–Bunyakovsky–Schwarz inequality.]]></summary></entry><entry><title type="html">Linnik’s advice</title><link href="http://localhost:4000/mental/2025/06/07/linnik.html" rel="alternate" type="text/html" title="Linnik’s advice" /><published>2025-06-07T10:50:12+08:00</published><updated>2025-06-07T10:50:12+08:00</updated><id>http://localhost:4000/mental/2025/06/07/linnik</id><content type="html" xml:base="http://localhost:4000/mental/2025/06/07/linnik.html"><![CDATA[<p>… начиная новую область исследования, надлежит выбрать в ней трудную, но хорошо поставленную проблему; при попытках решить ее будут попутно появляться новые задачи, а сама эта проблема будет служить пробным камнем для возникающих методов. Путь этот постепенно приведет к созданию теории и методов общего характера.</p>
+
+<p>Юрий Владимирович Линник.</p>
+
+<p>“…when starting a new area of research, one should choose within it a difficult but well-posed problem; in the process of attempting to solve it, new problems will arise along the way, and the original problem will serve as a touchstone for the emerging methods. This path will gradually lead to the creation of a theory and methods of a general nature.”</p>
+
+<p>— Yuri Vladimirovich Linnik</p>
+
+<p>« Lorsqu’on entame un nouveau domaine de recherche, il convient de choisir en son sein un problème difficile mais bien posé ; en tentant de le résoudre, de nouvelles questions apparaîtront en chemin, et ce problème initial servira de pierre de touche pour les méthodes naissantes. Ce chemin mènera progressivement à la création d’une théorie et de méthodes de caractère général. »</p>
+
+<p>— Youri Vladimirovitch Linnik</p>
+
+<p>“在开启一个新的研究领域时，应当选择一个困难但明确的问题；在尝试解决它的过程中，会陆续出现新的问题，而这个原始问题将成为检验新方法的试金石。这条道路将逐步引向具有普遍性质的理论和方法的建立。”</p>
+
+<p>—— 尤里·弗拉基米罗维奇·林尼克</p>]]></content><author><name></name></author><category term="mental" /><summary type="html"><![CDATA[… начиная новую область исследования, надлежит выбрать в ней трудную, но хорошо поставленную проблему; при попытках решить ее будут попутно появляться новые задачи, а сама эта проблема будет служить пробным камнем для возникающих методов. Путь этот постепенно приведет к созданию теории и методов общего характера.]]></summary></entry><entry><title type="html">Talks in Sofia about telescoping over topographs</title><link href="http://localhost:4000/numbers/2025/04/30/talk1.html" rel="alternate" type="text/html" title="Talks in Sofia about telescoping over topographs" /><published>2025-04-30T10:50:12+08:00</published><updated>2025-04-30T10:50:12+08:00</updated><id>http://localhost:4000/numbers/2025/04/30/talk1</id><content type="html" xml:base="http://localhost:4000/numbers/2025/04/30/talk1.html"><![CDATA[<p><strong>Added 22 July 2025:</strong> I finished the first <a href="/assets/numbers/telescopic.pdf">draft</a> draft of the article!</p>
+
+<p>Better to start with Cormac C’Sullivan Topographs and some infinite series <a href="https://www.youtube.com/watch?v=1ZtSAlNT810">talk</a> on Youtube.</p>
+
+<p>I gave a talk (first out of three) at <a href="https://icms.bg/event/three-lectures-on-binary-quadratic-forms-and-conways-topographs-by-nikita-kalinin-part-one/">ICMS</a>, Sofia.
+<a href="/assets/numbers/telescopic_presentation1.pdf">Here</a> is the slides.</p>
+
+<p><a href="https://youtu.be/z7Pz33JyCuA">video</a> is also available.</p>
+
+<p><a href="https://icms.bg/event/three-lectures-on-binary-quadratic-forms-and-conways-topographs-by-nikita-kalinin-part-two/">ICMS</a>, Sofia.</p>
+
+<p><a href="/assets/numbers/telescopic_presentation2.pdf">Here</a> is the slides of the second talk.
+<a href="https://youtu.be/OtvKQpH6yl8">video</a> of the second talk is also available.</p>
+
+<p><a href="/assets/numbers/telescopic_presentation3.pdf">Here</a> is the slides of the third talk.
+<a href="https://www.youtube.com/watch?v=h8YeU-cpqHo">video</a> of the third talk is also available.</p>]]></content><author><name></name></author><category term="numbers" /><summary type="html"><![CDATA[Added 22 July 2025: I finished the first draft draft of the article!]]></summary></entry><entry><title type="html">Teochew opera</title><link href="http://localhost:4000/chinese/2025/03/31/opera.html" rel="alternate" type="text/html" title="Teochew opera" /><published>2025-03-31T10:50:12+08:00</published><updated>2025-03-31T10:50:12+08:00</updated><id>http://localhost:4000/chinese/2025/03/31/opera</id><content type="html" xml:base="http://localhost:4000/chinese/2025/03/31/opera.html"><![CDATA[<p>孝婦殺家姑 - xiào fù shā jiā ɡū</p>
+
+<p>filial piety - wife - kill - mother-in-law</p>
+
+<p>On March 29 2025 I visited the opera in Shantou, the address is 广东潮剧院(潮护路)</p>
+
+<p><a href="https://www.bilibili.com/video/BV1p64y1Y7aw/">video</a></p>
+
+<p><a href="https://www.gdtv.cn/tv/6318f82adffd1f6016938eb766f3460a">video</a></p>
+
+<p><a href="https://www.bilibili.com/video/BV1oXtkeyELJ?spm_id_from=333.788.videopod.episodes&amp;p=7">video</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=gLmNTSa8iGI">video</a></p>
+
+<p>you can read the plot <a href="https://baike.baidu.com/item/孝婦殺家姑/20355058">here</a></p>]]></content><author><name></name></author><category term="chinese" /><summary type="html"><![CDATA[孝婦殺家姑 - xiào fù shā jiā ɡū]]></summary></entry><entry><title type="html">Lecture notes about sandpiles</title><link href="http://localhost:4000/sand/2025/03/27/sand.html" rel="alternate" type="text/html" title="Lecture notes about sandpiles" /><published>2025-03-27T10:50:12+08:00</published><updated>2025-03-27T10:50:12+08:00</updated><id>http://localhost:4000/sand/2025/03/27/sand</id><content type="html" xml:base="http://localhost:4000/sand/2025/03/27/sand.html"><![CDATA[<p>In 2017 I was lecturing about sandpiles in Dubna to the highschool students.
+Then I had the notes, I typed them into latex with intention to publish them as a small book someday.
+Today I decided not to publish them at all since it is impossible to read independently
+without following a lecture.</p>
+
+<p>Here it is: <a href="/assets/sand/draft-rus.pdf">draft</a></p>]]></content><author><name></name></author><category term="sand" /><summary type="html"><![CDATA[In 2017 I was lecturing about sandpiles in Dubna to the highschool students. Then I had the notes, I typed them into latex with intention to publish them as a small book someday. Today I decided not to publish them at all since it is impossible to read independently without following a lecture.]]></summary></entry><entry><title type="html">Wolstenholme’s congruence</title><link href="http://localhost:4000/numbers/2025/03/23/gaussian.html" rel="alternate" type="text/html" title="Wolstenholme’s congruence" /><published>2025-03-23T10:50:12+08:00</published><updated>2025-03-23T10:50:12+08:00</updated><id>http://localhost:4000/numbers/2025/03/23/gaussian</id><content type="html" xml:base="http://localhost:4000/numbers/2025/03/23/gaussian.html"><![CDATA[<p>The classical Wolstenholme’s theorem states that for any prime $p \geq 5$,</p>
+
+<p>$1+\frac{1}{2}+\frac{1}{3}+\dots + \frac{1}{p-1}\equiv 0 \pmod {p^2}.$</p>
+
+<p>For a prime $p&gt;5$ and $k\geq 1$, define:
+\begin{equation}
+S_p^{(k)} = \sum \frac{1}{(mi+n)^k},  1\leq n,m\leq p-1
+\end{equation}
+Then the following congruences hold:</p>
+
+<p>$S_p^{(1)} \equiv 0 \pmod{p^4}$</p>
+
+<p>$S_p^{(2)} \equiv 0 \pmod{p^3}$</p>
+
+<p>$S_p^{(3)} \equiv 0 \pmod{p^2}$</p>
+
+<p>$S_p^{(4)} \equiv 0 \pmod{p}$</p>
+
+<p>I conjectured that on 21 March 2025 and proved on 22 March 2025.
+ <a href="https://arxiv.org/abs/2504.07978">Here</a> is this article on arxiv.</p>
+
+<p>Immediately, Bo Jiang and Zhi-Wei Sun <a href="https://arxiv.org/pdf/2504.12242">proved</a> a conjecture from my article.</p>]]></content><author><name></name></author><category term="numbers" /><summary type="html"><![CDATA[The classical Wolstenholme’s theorem states that for any prime $p \geq 5$,]]></summary></entry><entry><title type="html">Continued fractions</title><link href="http://localhost:4000/numbers/2025/03/17/continued.html" rel="alternate" type="text/html" title="Continued fractions" /><published>2025-03-17T10:50:12+08:00</published><updated>2025-03-17T10:50:12+08:00</updated><id>http://localhost:4000/numbers/2025/03/17/continued</id><content type="html" xml:base="http://localhost:4000/numbers/2025/03/17/continued.html"><![CDATA[<p>added 22 July 2025: <a href="/assets/numbers/pi.pdf">preprint</a> about the Legendre duality for these summations of Farey series.</p>
+
+<p>Consider a simple continued fraction</p>
+
+<p>$a_{0}\in \mathbb{Z} , a_{n}\in \mathbb{Z}_{\geq 0}, 
+\quad \xi=a_0+\cfrac{1}{a_1+\cfrac{1}{a_2+\cfrac{1}{a_3+\ddots}}}=\left[a_0, a_1, \dotsc\right].$</p>
+
+<p>Define
+\begin{aligned}
+&amp; h_{-2}=0 \quad h_{-1}=1 \quad h_n=a_n h_{n-1}+h_{n-2} <br />
+&amp; k_{-2}=1 \quad k_{-1}=0 \quad k_n=a_n k_{n-1}+k_{n-2}.<br />
+\end{aligned}</p>
+
+<p>Then $\quad a_0+\cfrac{1}{a_1+\cfrac{1}{a_2+\cfrac{1}{a_3+\dotsb +\cfrac{1}{a_n}}}}=\left[a_0, a_1, \dotsc, a_n\right] =\frac{h_n}{k_n}$ and $\frac{h_n}{k_n} \rightarrow \xi$.</p>
+
+<p>Then the following hold:</p>
+
+<p>$\sum_{n=-1}^{\infty}\left|k_n \xi-h_n\right| \cdot a_{n+1}=\xi+1$ 
+for an irrational $\xi$</p>
+
+<p>$\sum_{n=-1}^N\left|k_n \xi-h_n\right| a_{n+1}=\xi+1-\frac{1}{p}$ 
+for a rational $\xi=q/p=[a_0,\dots,a_{N+1}]$</p>
+
+<p>$\sum_{n=-1}\limits^{\infty}\left|k_n \xi-h_n\right|^2 \cdot a_{n+1}=\xi$ 
+if $\xi$ is irrational and<br />
+$\sum_{n=-1}\limits^{N}\left|k_n \xi-h_n\right|^2 \cdot a_{n+1}=\xi$ 
+for $\xi=[a_0,\dots,a_{N+1}]$.</p>
+
+<p>I know at least two elementary proofs of these formulae. 
+I believe that these formulae were discovered before. 
+Have you seen something like that?</p>
+
+<p><a href="https://mathoverflow.net/questions/489340/new-summation-formulae-for-continued-fractions-reference-request?noredirect=1#comment1276530_489340">asked here</a></p>
+
+<p>chatgpt <a href="https://chatgpt.com/s/dr_680c598d7b2881919325ad976b04191d">deepresearch</a> answers better:</p>
+
+<p><img src="/assets/numbers/26042025.png" alt="image tooltip here" /></p>]]></content><author><name></name></author><category term="numbers" /><summary type="html"><![CDATA[added 22 July 2025: preprint about the Legendre duality for these summations of Farey series.]]></summary></entry><entry><title type="html">Saint Petersburg mathematicians and their discoveries</title><link href="http://localhost:4000/history/2025/02/07/past.html" rel="alternate" type="text/html" title="Saint Petersburg mathematicians and their discoveries" /><published>2025-02-07T10:50:12+08:00</published><updated>2025-02-07T10:50:12+08:00</updated><id>http://localhost:4000/history/2025/02/07/past</id><content type="html" xml:base="http://localhost:4000/history/2025/02/07/past.html"><![CDATA[<p>You’ll find the book in <a href="../../../../../files/book-spb.pdf">here</a>.</p>
 
 <blockquote>
   <p>“What is the most important thing a scientist should cultivate in himself? 
@@ -14,4 +142,10 @@ One must learn to appreciate even a small achievement,
 to rejoice in it, and never overestimate oneself. One has to cultivate a love for work. 
 One has to understand and cultivate the joy of learning, which is almost the same as the joy of life.
  Happiness is when your life’s work is needed.” Sobolev, Sergei Lvovich</p>
-</blockquote>]]></content><author><name></name></author><category term="book" /><summary type="html"><![CDATA[You’ll find the book in here.]]></summary></entry></feed>
+</blockquote>]]></content><author><name></name></author><category term="history" /><summary type="html"><![CDATA[You’ll find the book in here.]]></summary></entry><entry><title type="html">Bad teachers in the buddhist hell</title><link href="http://localhost:4000/chinese/2025/02/07/bad.html" rel="alternate" type="text/html" title="Bad teachers in the buddhist hell" /><published>2025-02-07T10:50:12+08:00</published><updated>2025-02-07T10:50:12+08:00</updated><id>http://localhost:4000/chinese/2025/02/07/bad</id><content type="html" xml:base="http://localhost:4000/chinese/2025/02/07/bad.html"><![CDATA[<p><img src="/assets/scientists.png" alt="image" style="float: center; width: 20em" /></p>
+
+<p>This is from the Buddhist temple in <a href="https://funchengnan2.nmh.gov.tw/fun/view?id=248314886f624e19a193410d4e17835e">here</a></p>
+
+<p>業师不教弟子，钱取去用了，受此报報</p>
+
+<p>The meaning may be “The teacher take the money without teaching students, deserves to be punished.”</p>]]></content><author><name></name></author><category term="chinese" /><summary type="html"><![CDATA[]]></summary></entry></feed>

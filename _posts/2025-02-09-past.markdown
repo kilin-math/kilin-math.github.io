@@ -2,7 +2,7 @@
 layout: post
 title:  "Saint Petersburg mathematicians and their discoveries"
 date:   2025-02-07 10:50:12 +0800
-categories: book
+categories: history
 ---
 
 You’ll find the book in [here](../../../../../files/book-spb.pdf).
