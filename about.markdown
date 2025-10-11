@@ -7,7 +7,7 @@ permalink: /about/
 I am a mathematican, I work as an Associate professor at Guangdong Technion-Israel Institute of Technology, Shantou, China.
 
 
-[cv](https://kilin-math.github.io/files/cv.pdf)
+[cv](https://kilin-math.github.io/assets/cv.pdf)
 
 ![image tooltip here](/assets/me.jpg)
 
