@@ -5,25 +5,26 @@ date:   2025-10-14 10:00:00 +0800
 categories: teaching
 ---
 
-This semester I taught a new course, **Basic Concepts in Mathematics**, at the Guangdong Technion – Israel Institute of Technology, Shantou.  
-It was written as a *diary* of mathematical ideas, proofs, and stories — not only to help students learn to prove things, but also to show how mathematicians *think*.
+This semester I am teaching a new course, **Basic Concepts in Mathematics**, 
+at the Guangdong Technion – Israel Institute of Technology, Shantou.  
+The notes will be written as a *diary* for teachers.
 
-The complete text of the course is available here:  
-📘 [Download PDF](https://kilin-math.github.io/files/diary.pdf)
+The complete text of the course will be updated here:  
+[Download PDF](https://kilin-math.github.io/assets/teaching/diary.pdf)
 
 ---
 
-### 🧩 Structure of the course
+### Structure of the course
 
 * **Methods of proving** — parity, induction, invariants, pigeonhole principle.  
 * **Naive set theory** — unions, intersections, Cartesian products, Venn diagrams.  
-* **Number theory and equivalence** — remainders, congruences, countable sets.  
-* **Orders and induction on pairs** — lexicographic order, minimal counterexamples.  
+* **Number theory and equivalence** — remainders, congruences, countable/uncountable sets.  
+* **Orders and lexicographic induction** — lexicographic order.  
 
 
 ---
 
-### 💬 Collaboration and AI
+### Collaboration and AI
 
 Students were encouraged to collaborate and to use AI **only as a reviewer, not as an author**.  
 The diary includes a full section explaining how to:
