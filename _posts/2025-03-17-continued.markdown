@@ -50,6 +50,4 @@ chatgpt [deepresearch](https://chatgpt.com/s/dr_680c598d7b2881919325ad976b04191d
 
 
 
-**Added 22 Jan 2026** Then we wrote an [article](https://arxiv.org/abs/2601.07862) ``Weighted error-sum identities for periodic continued fractions and their generalizations''
- 
-(joint with K. Calderon) 
+**Added 22 Jan 2026** Then we wrote an [article](https://arxiv.org/abs/2601.07862) ``Weighted error-sum identities for periodic continued fractions and their generalizations'' (joint with K. Calderon) 
