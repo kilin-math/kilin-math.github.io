@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Continued fractions"
-date:   2025-03-17 10:50:12 +0800
+date:   2026-01-22 10:50:12 +0800
 categories: numbers
 ---
 
