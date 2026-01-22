@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Talks in Sofia about telescoping over topographs"
+title:  "Telescoping over topographs"
 date:   2025-04-30 10:50:12 +0800
 categories: numbers
 ---
 
-**Added 22 July 2025:** I finished the first [draft](/assets/numbers/telescopic.pdf) draft of the article!
 
+**Talks in Sofia about telescoping over topographs**
 
 
 Better to start with Cormac C'Sullivan Topographs and some infinite series [talk](https://www.youtube.com/watch?v=1ZtSAlNT810) on Youtube. 
@@ -27,3 +27,7 @@ I gave a talk (first out of three) at [ICMS](https://icms.bg/event/three-lecture
 [video](https://www.youtube.com/watch?v=h8YeU-cpqHo) of the third talk is also available.
 
 
+**Added 22 July 2025:** I finished the first [draft](/assets/numbers/telescopic.pdf) draft of the article!
+
+**On archive:** [Evaluation of lattice sums via telescoping over topographs](https://arxiv.org/abs/2510.02082) and a side-effect article
+[A half-shift reflection identity for the digamma function](https://arxiv.org/abs/2510.00012)
