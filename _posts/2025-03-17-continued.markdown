@@ -4,11 +4,10 @@ title:  "Continued fractions"
 date:   2025-03-17 10:50:12 +0800
 categories: numbers
 ---
-added 22 July 2025: [preprint](/assets/numbers/pi.pdf) about the Legendre duality for these summations of Farey series.
 
 
 
-Consider a simple continued fraction
+17 March 2025 Consider a simple continued fraction
 
 $a_{0}\in \mathbb{Z} , a_{n}\in \mathbb{Z}_{\geq 0}, 
 \quad \xi=a_0+\cfrac{1}{a_1+\cfrac{1}{a_2+\cfrac{1}{a_3+\ddots}}}=\left[a_0, a_1, \dotsc\right].$
@@ -46,3 +45,11 @@ Have you seen something like that?
 chatgpt [deepresearch](https://chatgpt.com/s/dr_680c598d7b2881919325ad976b04191d) answers better: 
 
 ![image tooltip here](/assets/numbers/26042025.png)
+
+**Added 22 July 2025**: [preprint](/assets/numbers/pi.pdf) about the Legendre duality for these summations of Farey series.
+
+
+
+**Added 22 Jan 2026** Then we wrote an [article](https://arxiv.org/abs/2601.07862) ``Weighted error-sum identities for periodic continued fractions and their generalizations''
+ 
+(joint with K. Calderon) 
