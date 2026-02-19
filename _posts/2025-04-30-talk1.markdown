@@ -6,6 +6,14 @@ categories: numbers
 ---
 
 
+**Talk on Special Functions and Number Theory seminar, India**
+
+[slides](/assets/numbers/SFNT.pdf)
+
+[seminar](https://www.sfnt.org/2026/02/nikita-kalinin-guangdong-technion-china.html)
+
+[video](https://www.youtube.com/playlist?list=PLS-4QayvfgFSBoW9A9onQRWcYdtCIBghW)
+
 **Talks in Sofia about telescoping over topographs**
 
 
