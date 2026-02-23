@@ -24,6 +24,7 @@ More talks may be added.
 | Friday, 13 March   | TBA  | Chan leong Kuan (Sun Yat-sen University)                 | Subconvexity for twisted GL(3) L-functions |
 | Saturday, 14 March | TBA  | Shaoyun Yi (Xiamen University) | Some results on classical and adelic Eisenstein series |
 | Sunday, 15 March   | TBA  | Ezra Waxman                 | Artin's primitive root conjecture: classically and over algebraic function fields |
+| Saturday           | TBA  | Yingnan Wang                | Sign changes of Fourier coefficients on GL(m). | 
 
 Times and rooms will be announced closer to the dates of the seminar.
 
@@ -47,7 +48,7 @@ This is joint work with E.M. Kıral and D. Lesesvre.
 #### Some results on classical and adelic Eisenstein series
 
 **Speaker:** Shaoyun Yi (Xiamen University)  
-**Time:** TBC  
+**Time:** TBA  
 
 **Abstract:**  
 In this talk, we will discuss the classical Siegel Eisenstein series
@@ -84,6 +85,25 @@ As the centennial of Artin’s conjecture approaches, we survey its rich
 history and introduce several new variants of the problem. Specifically,
 we discuss an “Artin Twin Primes Conjecture” and prove an appropriate
 analogue of Artin's conjecture for algebraic function fields.
+
+
+#### Sign changes of Fourier coefficients on GL(m).
+
+**Speaker:** Yingnan Wang  
+**Time:** TBA  
+
+**Abstract:**  
+ In this talk, we will survey some results on sign changes of Fourier coefficients 
+ (Hecke eigenvalues) of holomorphic Hecke eigenforms on GL_2 and Hecke-Maass forms on GL_m (m>=2). 
+ Then we will introduce some statistical results on sign changes of Fourier 
+ coefficients of Hecke-Maass forms on GL_m (m>=3). For most Hecke-Maass cusp forms, 
+ we give the asymptotic number of nonvanishing coefficients, show that there is a 
+ positive proportion of sign changes among them, when these are real, and describe 
+ the asymptotic density of these signs. This talk is based on a joint work with 
+ Didier Lesesvre and Ming Ho Ng
+
+
+
 
 ---
 
