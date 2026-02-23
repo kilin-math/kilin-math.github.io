@@ -1,0 +1,92 @@
+---
+layout: post
+title:  "Analytic number theory seminar at GTIIT"
+date:   2026-02-20 10:00:00 +0800
+categories: seminar
+---
+
+!(/assets/numbers/sky.jpeg)
+
+Analytic number theory seminar at Guangdong Technion – Israel Institute of Technology (GTIIT),  
+Shantou, China.
+
+**Dates:** 13–15 March 2026  
+**Venue:** Guangdong Technion – Israel Institute of Technology (GTIIT)  
+**Format:** Research talks in analytic number theory. Times are preliminary and may be adjusted.  
+More talks may be added.
+
+---
+
+### Preliminary schedule
+
+| Date               | Time | Speaker             | Title |
+|--------------------|------|---------------------|-------|
+| Friday, 13 March   | TBA  | Chan leong Kuan (Sun Yat-sen University)                 | Subconvexity for twisted GL(3) L-functions |
+| Saturday, 14 March | TBA  | Shaoyun Yi (Xiamen University) | Some results on classical and adelic Eisenstein series |
+| Sunday, 15 March   | TBA  | Ezra Waxman                 | Artin's primitive root conjecture: classically and over algebraic function fields |
+
+Times and rooms will be announced closer to the dates of the seminar.
+
+---
+
+### Talks
+
+#### Subconvexity for twisted GL(3) L-functions
+
+**Speaker:** Chan leong Kuan (Sun Yat-sen University)  
+**Time:** TBA  
+
+**Abstract:**  
+Using a variant of circle method and conductor lowering trick
+originally devised by Munshi, we obtain subconvex bounds for twisted
+GL(3) L-functions, in the character and \(t\)-aspects simultaneously.
+This is joint work with E.M. Kıral and D. Lesesvre.
+
+---
+
+#### Some results on classical and adelic Eisenstein series
+
+**Speaker:** Shaoyun Yi (Xiamen University)  
+**Time:** TBC  
+
+**Abstract:**  
+In this talk, we will discuss the classical Siegel Eisenstein series
+of weight \(k\) and degree \(2\) within an adelic framework, mainly applying the
+method known as “Hecke summation”. In the process, we recover the clas-
+sical Fourier expansion of the Siegel Eisenstein series from an adelic point
+of view. One of our goals is to determine the automorphic representations
+associated to these Siegel Eisenstein series, particularly for the case of weight
+\(k = 2\), where the underlying global representation is highly reducible.
+
+First, we will give a quick introduction to the necessary background and
+motivation for this work. Next, we will briefly review recent results in the
+study of classical and adelic Eisenstein series for GL(2) (the degree \(1\) case),
+which may be viewed as a toy example. Finally, we will present an overview
+of our ongoing work on the Siegel Eisenstein series of degree \(2\). These are
+joint works with Manami Roy and Ralf Schmidt.
+
+---
+
+#### Artin's primitive root conjecture: classically and over algebraic function fields
+
+**Speaker:** Ezra Waxman  
+**Time:** TBA  
+
+**Abstract:**  
+Fix \(g \in \mathbb{N}\) such that \(g\) is not a perfect square. Artin's primitive root
+conjecture (1927) states that there exist infinitely many primes
+\(p \in \mathbb{N}\) such that \(g\) generates the finite cyclic group
+\((\mathbb{Z}/p\mathbb{Z})^{\times}\). Nearly a century later, Artin's conjecture
+remains wide-open: in fact there is no known specified \(g\) for which the
+conjecture has been resolved.
+
+As the centennial of Artin’s conjecture approaches, we survey its rich
+history and introduce several new variants of the problem. Specifically,
+we discuss an “Artin Twin Primes Conjecture” and prove an appropriate
+analogue of Artin's conjecture for algebraic function fields.
+
+---
+
+More details will be circulated by email.
+
+Organiser: Nikita Kalinin, GTIIT, Ezra Waxman
