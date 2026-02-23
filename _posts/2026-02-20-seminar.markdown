@@ -5,7 +5,7 @@ date:   2026-02-20 10:00:00 +0800
 categories: seminar
 ---
 
-!(/assets/numbers/sky.jpeg)
+![image tooltip here](/assets/numbers/sky.jpeg)
 
 Analytic number theory seminar at Guangdong Technion – Israel Institute of Technology (GTIIT),  
 Shantou, China.
