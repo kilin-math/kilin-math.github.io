@@ -22,12 +22,12 @@ More talks may be added.
 | Date               | Time | Speaker             | Title |
 |--------------------|------|---------------------|-------|
 | Friday, 13 March   | 19.00| Dinner |  |
-| Saturday, 14 March   | TBA  | Chan leong Kuan (Sun Yat-sen University)                 | Subconvexity for twisted GL(3) L-functions |
-| Saturday, 14 March   | TBA  | Yingnan Wang (Shenzhen University)                | Sign changes of Fourier coefficients on GL(m). | 
-| Saturday, 14 March | 12.00-14.00  | Lunch) |  |
-| Saturday, 14 March | TBA  | Yuk-Kam Lau (The University of Hong Kong) | TBA |
-| Saturday, 14 March | TBA  | Shaoyun Yi (Xiamen University) | Some results on classical and adelic Eisenstein series |
-| Saturday, 14 March | TBA  | Nikita Kalinin (Guangdong Technion) | TBA |
+| Saturday, 14 March | TBA  | Chan leong Kuan (Sun Yat-sen University)                 | Subconvexity for twisted GL(3) L-functions |
+|                    | TBA  | Yingnan Wang (Shenzhen University)                | Sign changes of Fourier coefficients on GL(m). | 
+|                    | 12.00-14.00  | Lunch |  |
+|                    | TBA  | Yuk-Kam Lau (The University of Hong Kong) | TBA |
+|                    | TBA  | Shaoyun Yi (Xiamen University) | Some results on classical and adelic Eisenstein series |
+|                    | TBA  | Nikita Kalinin (Guangdong Technion) | TBA |
 | Sunday, 15 March   | TBA  | Ezra Waxman (Afeka) | Artin's primitive root conjecture: classically and over algebraic function fields |
 
 Times and rooms will be announced closer to the dates of the seminar.
