@@ -87,8 +87,8 @@ This is joint work with E.M. Kıral and D. Lesesvre.
 **Abstract:**  
 In this talk, we will discuss the classical Siegel Eisenstein series
 of weight \(k\) and degree \(2\) within an adelic framework, mainly applying the
-method known as “Hecke summation”. In the process, we recover the clas-
-sical Fourier expansion of the Siegel Eisenstein series from an adelic point
+method known as “Hecke summation”. In the process, we recover the classical 
+Fourier expansion of the Siegel Eisenstein series from an adelic point
 of view. One of our goals is to determine the automorphic representations
 associated to these Siegel Eisenstein series, particularly for the case of weight
 \(k = 2\), where the underlying global representation is highly reducible.
@@ -111,12 +111,12 @@ joint works with Manami Roy and Ralf Schmidt.
 **Abstract:**  
 Let $\Omega\subset\mathbb R^2$ be a bounded convex domain. To $\Omega$ we associate a Dirichlet-type series
 \[
-F_\Omega(s)\;=\;\sum_{v\in\mathbb Z^2_{\mathrm{prim}}} f_\Omega(v)^s,
+F_\Omega(s)=\sum_{v\in\mathbb Z^2_{\mathrm{prim}}} f_\Omega(v)^s,
 \]
 where the sum ranges over primitive lattice vectors and $f_\Omega(v)$ 
 is a natural weight determined by the support function of $\Omega$ in directions of $v$ and $x_v, y_v$ where $x_v+y_v=v$ and $det(u,v)=1$. 
 Beyond its lattice-geometric origin, $F_\Omega(s)$ exhibits a modular symmetry: 
-it is $SL(2,\ZZ)$-invariant up to explicitly controlled holomorphic correction terms.
+it is $SL(2,\mathbb Z)$-invariant up to explicitly controlled holomorphic correction terms.
 
 We prove that $F_\Omega(s)$ admits a meromorphic continuation to the half-plane $\Re(s)> \tfrac12$, 
 and that it has a \emph{simple pole} at $s=\tfrac23$. 
@@ -135,11 +135,11 @@ Joint work with M.~Shkolnikov and E.~Lupercio.
 **Time:** TBA  
 
 **Abstract:**  
-Fix \(g \in \mathbb{N}\) such that \(g\) is not a perfect square. Artin's primitive root
+Fix $g \in \mathbb{N}$ such that \(g\) is not a perfect square. Artin's primitive root
 conjecture (1927) states that there exist infinitely many primes
-\(p \in \mathbb{N}\) such that \(g\) generates the finite cyclic group
-\((\mathbb{Z}/p\mathbb{Z})^{\times}\). Nearly a century later, Artin's conjecture
-remains wide-open: in fact there is no known specified \(g\) for which the
+$p \in \mathbb{N}$ such that $g$ generates the finite cyclic group
+$(\mathbb{Z}/p\mathbb{Z})^{\times}$. Nearly a century later, Artin's conjecture
+remains wide-open: in fact there is no known specified $g$ for which the
 conjecture has been resolved.
 
 As the centennial of Artin’s conjecture approaches, we survey its rich
