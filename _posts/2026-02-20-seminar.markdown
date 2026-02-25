@@ -22,13 +22,13 @@ More talks may be added.
 | Date               | Time | Speaker             | Title |
 |--------------------|------|---------------------|-------|
 | Friday, 13 March   | 19.00| Dinner |  |
-| Saturday, 14 March | TBA  | Chan leong Kuan (Sun Yat-sen University)                 | Subconvexity for twisted GL(3) L-functions |
-|                    | TBA  | Yingnan Wang (Shenzhen University)                | Sign changes of Fourier coefficients on GL(m). | 
+| Saturday, 14 March | TBA  | Chan leong Kuan (Sun Yat-sen University) | Subconvexity for twisted GL(3) L-functions |
+|                    | TBA  | Yingnan Wang (Shenzhen University)       | Sign changes of Fourier coefficients on GL(m). | 
 |                    | 12.00-14.00  | Lunch |  |
-|                    | TBA  | Yuk-Kam Lau (The University of Hong Kong) | TBA |
-|                    | TBA  | Shaoyun Yi (Xiamen University) | Some results on classical and adelic Eisenstein series |
-|                    | TBA  | Nikita Kalinin (Guangdong Technion) | TBA |
-| Sunday, 15 March   | TBA  | Ezra Waxman (Afeka) | Artin's primitive root conjecture: classically and over algebraic function fields |
+|                    | TBA  | Yuk-Kam Lau (The University of Hong Kong) | Distribution of the error term in the Dirichlet divisor problem |
+|                    | TBA  | Shaoyun Yi (Xiamen University)            | Some results on classical and adelic Eisenstein series |
+|                    | TBA  | Nikita Kalinin (Guangdong Technion)       | Zeta-series for convex domains and its pole at s=2/3 |
+| Sunday, 15 March   | TBA  | Ezra Waxman (Afeka)                       | Artin's primitive root conjecture: classically and over algebraic function fields |
 
 Times and rooms will be announced closer to the dates of the seminar.
 
@@ -48,6 +48,36 @@ GL(3) L-functions, in the character and \(t\)-aspects simultaneously.
 This is joint work with E.M. Kıral and D. Lesesvre.
 
 ---
+
+#### Sign changes of Fourier coefficients on GL(m).
+
+**Speaker:** Yingnan Wang  
+**Time:** TBA  
+
+**Abstract:**  
+ In this talk, we will survey some results on sign changes of Fourier coefficients 
+ (Hecke eigenvalues) of holomorphic Hecke eigenforms on GL_2 and Hecke-Maass forms on GL_m (m>=2). 
+ Then we will introduce some statistical results on sign changes of Fourier 
+ coefficients of Hecke-Maass forms on GL_m (m>=3). For most Hecke-Maass cusp forms, 
+ we give the asymptotic number of nonvanishing coefficients, show that there is a 
+ positive proportion of sign changes among them, when these are real, and describe 
+ the asymptotic density of these signs. This talk is based on a joint work with 
+ Didier Lesesvre and Ming Ho Ng
+
+---
+
+#### Distribution of the error term in the Dirichlet divisor problem
+
+**Speaker:** Yuk-Kam Lau  
+**Time:** TBA  
+
+**Abstract:**  
+ Three decades ago, Heath-Brown resolved the question of whether a limiting 
+ distribution function exists for the normalized error term in the Dirichlet divisor problem. 
+ In this talk, we will review his groundbreaking work and the subsequent developments. 
+ In particular, we will discuss recent advances by Lamzouri.
+
+
 
 #### Some results on classical and adelic Eisenstein series
 
@@ -72,6 +102,33 @@ joint works with Manami Roy and Ralf Schmidt.
 
 ---
 
+
+#### Zeta-series for convex domains and its pole at s=2/3
+
+**Speaker:** Nikita Kalinin (Guangdong Technion-Israel Institute of Technology)  
+**Time:** TBA  
+
+**Abstract:**  
+Let $\Omega\subset\mathbb R^2$ be a bounded convex domain. To $\Omega$ we associate a Dirichlet-type series
+\[
+F_\Omega(s)\;=\;\sum_{v\in\mathbb Z^2_{\mathrm{prim}}} f_\Omega(v)^s,
+\]
+where the sum ranges over primitive lattice vectors and $f_\Omega(v)$ 
+is a natural weight determined by the support function of $\Omega$ in directions of $v$ and $x_v, y_v$ where $x_v+y_v=v$ and $det(u,v)=1$. 
+Beyond its lattice-geometric origin, $F_\Omega(s)$ exhibits a modular symmetry: 
+it is $SL(2,\ZZ)$-invariant up to explicitly controlled holomorphic correction terms.
+
+We prove that $F_\Omega(s)$ admits a meromorphic continuation to the half-plane $\Re(s)> \tfrac12$, 
+and that it has a \emph{simple pole} at $s=\tfrac23$. 
+The leading term is geometric: the residue at $s=\tfrac23$ is proportional to the \emph{affine length} 
+of $\partial\Omega$ (the equi-affine perimeter), revealing a new bridge between analytic continuation of lattice sums 
+and affine differential geometry of convex curves.
+
+Joint work with M.~Shkolnikov and E.~Lupercio.
+
+---
+
+
 #### Artin's primitive root conjecture: classically and over algebraic function fields
 
 **Speaker:** Ezra Waxman  
@@ -90,21 +147,6 @@ history and introduce several new variants of the problem. Specifically,
 we discuss an “Artin Twin Primes Conjecture” and prove an appropriate
 analogue of Artin's conjecture for algebraic function fields.
 
-
-#### Sign changes of Fourier coefficients on GL(m).
-
-**Speaker:** Yingnan Wang  
-**Time:** TBA  
-
-**Abstract:**  
- In this talk, we will survey some results on sign changes of Fourier coefficients 
- (Hecke eigenvalues) of holomorphic Hecke eigenforms on GL_2 and Hecke-Maass forms on GL_m (m>=2). 
- Then we will introduce some statistical results on sign changes of Fourier 
- coefficients of Hecke-Maass forms on GL_m (m>=3). For most Hecke-Maass cusp forms, 
- we give the asymptotic number of nonvanishing coefficients, show that there is a 
- positive proportion of sign changes among them, when these are real, and describe 
- the asymptotic density of these signs. This talk is based on a joint work with 
- Didier Lesesvre and Ming Ho Ng
 
 
 
