@@ -122,9 +122,7 @@ We prove that $F_\Omega(s)$ admits a meromorphic continuation to the half-plane 
 and that it has a \emph{simple pole} at $s=\tfrac23$. 
 The leading term is geometric: the residue at $s=\tfrac23$ is proportional to the \emph{affine length} 
 of $\partial\Omega$ (the equi-affine perimeter), revealing a new bridge between analytic continuation of lattice sums 
-and affine differential geometry of convex curves.
-
-Joint work with M.~Shkolnikov and E.~Lupercio.
+and affine differential geometry of convex curves. Joint work with M.~Shkolnikov and E.~Lupercio.
 
 ---
 
