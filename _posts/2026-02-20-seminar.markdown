@@ -111,7 +111,7 @@ joint works with Manami Roy and Ralf Schmidt.
 **Abstract:**  
 Let $\Omega\subset\mathbb R^2$ be a bounded convex domain. To $\Omega$ we associate a Dirichlet-type series
 \[
-F_\Omega(s)=\sum_{v\in\mathbb Z^2_{\mathrm{prim}}} f_\Omega(v)^s,
+F_\Omega(s)=\sum_{v\in\mathbb Z^2} f_\Omega(v)^s,
 \]
 where the sum ranges over primitive lattice vectors and $f_\Omega(v)$ 
 is a natural weight determined by the support function of $\Omega$ in directions of $v$ and $x_v, y_v$ where $x_v+y_v=v$ and $det(u,v)=1$. 
