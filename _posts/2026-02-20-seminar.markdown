@@ -127,23 +127,17 @@ and affine differential geometry of convex curves. Joint work with M.~Shkolnikov
 ---
 
 
-#### Artin's primitive root conjecture: classically and over algebraic function fields
+#### Lattice Points in Thin Sectors
 
 **Speaker:** Ezra Waxman  
 **Time:** TBA  
 
 **Abstract:**  
-Fix $g \in \mathbb{N}$ such that \(g\) is not a perfect square. Artin's primitive root
-conjecture (1927) states that there exist infinitely many primes
-$p \in \mathbb{N}$ such that $g$ generates the finite cyclic group
-$(\mathbb{Z}/p\mathbb{Z})^{\times}$. Nearly a century later, Artin's conjecture
-remains wide-open: in fact there is no known specified $g$ for which the
-conjecture has been resolved.
-
-As the centennial of Artin’s conjecture approaches, we survey its rich
-history and introduce several new variants of the problem. Specifically,
-we discuss an “Artin Twin Primes Conjecture” and prove an appropriate
-analogue of Artin's conjecture for algebraic function fields.
+On the circle of radius R centred at the origin, consider a thin 
+sector about the fixed line y = \alpha x with edges given by the lines 
+$y = (\alpha \pm \epsilon) x$, where $\epsilon = \epsilon_R \rightarrow 0$ as $R \to \infty$. 
+We discuss an asymptotic count for $S_{\alpha}(\epsilon,R)$, the number of integer 
+lattice points lying in such a sector, and moreover present results concerning the variance of such lattice points across sectors
 
 
 
