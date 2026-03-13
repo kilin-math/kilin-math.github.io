@@ -22,7 +22,7 @@ Shantou, China.
 |--------------------|------|---------------------|-------|
 | Friday, 13 March   | 18.30| Dinner |  |
 | Saturday, 14 March | 10.00  | Chan leong Kuan (Sun Yat-sen University) | Subconvexity for twisted GL(3) L-functions |
-|                    | 1.00  | Yingnan Wang (Shenzhen University)       | Sign changes of Fourier coefficients on GL(m). | 
+|                    | 11.00  | Yingnan Wang (Shenzhen University)       | Sign changes of Fourier coefficients on GL(m). | 
 |                    | 12.00-14.00  | Lunch |  |
 |                    | 14.00  | Yuk-Kam Lau (The University of Hong Kong) | Distribution of the error term in the Dirichlet divisor problem |
 |                    | 15.00  | Shaoyun Yi (Xiamen University)            | Some results on classical and adelic Eisenstein series |
