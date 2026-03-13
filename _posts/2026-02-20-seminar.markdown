@@ -22,13 +22,14 @@ More talks may be added.
 | Date               | Time | Speaker             | Title |
 |--------------------|------|---------------------|-------|
 | Friday, 13 March   | 19.00| Dinner |  |
-| Saturday, 14 March | TBA  | Chan leong Kuan (Sun Yat-sen University) | Subconvexity for twisted GL(3) L-functions |
-|                    | TBA  | Yingnan Wang (Shenzhen University)       | Sign changes of Fourier coefficients on GL(m). | 
+| Saturday, 14 March | 10.00  | Chan leong Kuan (Sun Yat-sen University) | Subconvexity for twisted GL(3) L-functions |
+|                    | 1.00  | Yingnan Wang (Shenzhen University)       | Sign changes of Fourier coefficients on GL(m). | 
 |                    | 12.00-14.00  | Lunch |  |
-|                    | TBA  | Yuk-Kam Lau (The University of Hong Kong) | Distribution of the error term in the Dirichlet divisor problem |
-|                    | TBA  | Shaoyun Yi (Xiamen University)            | Some results on classical and adelic Eisenstein series |
-|                    | TBA  | Nikita Kalinin (Guangdong Technion)       | Zeta-series for convex domains and its pole at s=2/3 |
-| Sunday, 15 March   | TBA  | Ezra Waxman (Afeka)                       | Artin's primitive root conjecture: classically and over algebraic function fields |
+|                    | 14.00  | Yuk-Kam Lau (The University of Hong Kong) | Distribution of the error term in the Dirichlet divisor problem |
+|                    | 15.00  | Shaoyun Yi (Xiamen University)            | Some results on classical and adelic Eisenstein series |
+|                    | 16.00  | Nikita Kalinin (Guangdong Technion)       | Zeta-series for convex domains and its pole at s=2/3 |
+| Sunday, 15 March   | 10.00  | Ezra Waxman (Afeka)                       | Artin's primitive root conjecture: classically and over algebraic function fields |
+|                    | 11.00  | Discussions                               |                    | 
 
 Times and rooms will be announced closer to the dates of the seminar.
 
