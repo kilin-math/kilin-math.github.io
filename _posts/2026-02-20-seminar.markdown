@@ -21,7 +21,7 @@ More talks may be added.
 
 | Date               | Time | Speaker             | Title |
 |--------------------|------|---------------------|-------|
-| Friday, 13 March   | 19.00| Dinner |  |
+| Friday, 13 March   | 18.30| Dinner |  |
 | Saturday, 14 March | 10.00  | Chan leong Kuan (Sun Yat-sen University) | Subconvexity for twisted GL(3) L-functions |
 |                    | 1.00  | Yingnan Wang (Shenzhen University)       | Sign changes of Fourier coefficients on GL(m). | 
 |                    | 12.00-14.00  | Lunch |  |
