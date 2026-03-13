@@ -28,7 +28,7 @@ More talks may be added.
 |                    | 14.00  | Yuk-Kam Lau (The University of Hong Kong) | Distribution of the error term in the Dirichlet divisor problem |
 |                    | 15.00  | Shaoyun Yi (Xiamen University)            | Some results on classical and adelic Eisenstein series |
 |                    | 16.00  | Nikita Kalinin (Guangdong Technion)       | Zeta-series for convex domains and its pole at s=2/3 |
-| Sunday, 15 March   | 10.00  | Ezra Waxman (Afeka)                       | Artin's primitive root conjecture: classically and over algebraic function fields |
+| Sunday, 15 March   | 10.00  | Ezra Waxman (Afeka)                       | Lattice Points in Thin Sectors |
 |                    | 11.00  | Discussions                               |                    | 
 
 Place: SC-E2-103 (South campus, educational building)
