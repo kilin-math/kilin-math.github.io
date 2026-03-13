@@ -40,7 +40,7 @@ Place: SC-E2-103 (South campus, educational building)
 #### Subconvexity for twisted GL(3) L-functions
 
 **Speaker:** Chan leong Kuan (Sun Yat-sen University)  
-**Time:** TBA  
+
 
 **Abstract:**  
 Using a variant of circle method and conductor lowering trick
@@ -53,7 +53,7 @@ This is joint work with E.M. Kıral and D. Lesesvre.
 #### Sign changes of Fourier coefficients on GL(m).
 
 **Speaker:** Yingnan Wang  
-**Time:** TBA  
+  
 
 **Abstract:**  
  In this talk, we will survey some results on sign changes of Fourier coefficients 
@@ -70,7 +70,7 @@ This is joint work with E.M. Kıral and D. Lesesvre.
 #### Distribution of the error term in the Dirichlet divisor problem
 
 **Speaker:** Yuk-Kam Lau  
-**Time:** TBA  
+  
 
 **Abstract:**  
  Three decades ago, Heath-Brown resolved the question of whether a limiting 
@@ -83,7 +83,7 @@ This is joint work with E.M. Kıral and D. Lesesvre.
 #### Some results on classical and adelic Eisenstein series
 
 **Speaker:** Shaoyun Yi (Xiamen University)  
-**Time:** TBA  
+  
 
 **Abstract:**  
 In this talk, we will discuss the classical Siegel Eisenstein series
@@ -107,7 +107,7 @@ joint works with Manami Roy and Ralf Schmidt.
 #### Zeta-series for convex domains and its pole at s=2/3
 
 **Speaker:** Nikita Kalinin (Guangdong Technion-Israel Institute of Technology)  
-**Time:** TBA  
+  
 
 **Abstract:**  
 Let $\Omega\subset\mathbb R^2$ be a bounded convex domain. To $\Omega$ we associate a Dirichlet-type series
@@ -131,7 +131,7 @@ and affine differential geometry of convex curves. Joint work with M.~Shkolnikov
 #### Lattice Points in Thin Sectors
 
 **Speaker:** Ezra Waxman  
-**Time:** TBA  
+  
 
 **Abstract:**  
 On the circle of radius R centred at the origin, consider a thin 
@@ -148,4 +148,4 @@ lattice points lying in such a sector, and moreover present results concerning t
 
 More details will be circulated by email.
 
-Organiser: Nikita Kalinin, GTIIT, Ezra Waxman
+Organiser: Nikita Kalinin (GTIIT), Ezra Waxman (Afeka)
