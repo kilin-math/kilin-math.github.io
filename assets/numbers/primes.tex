@@ -1,0 +1,88 @@
+\documentclass[11pt]{article}
+
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\title{Experimental conjecture: On representations of Gaussian integers by primes and powers of $1+i$}
+\author{Nikita Kalinin\footnote{Guangdong Technion-Israel Institute of Technology (GTIIT),
+$241$ Daxue Road, Shantou, Guangdong Province $515603$, P.R. China, Technion-Israel Institute of Technology, Haifa, 32000, Haifa District, Israel, nikaanspb@gmail.com}, Faith Shadow Zottor\footnote{Guangdong Technion-Israel Institute of Technology (GTIIT),
+$241$ Daxue Road, Shantou, Guangdong Province $515603$, P.R. China, faith.zottor@gtiit.edu.cn}}
+
+
+\begin{document}
+
+\maketitle
+\vspace{-1cm}
+
+\paragraph{Conjecture.}
+Let $z=a+bi\in\mathbb{Z}[i]$ with $a+b$ odd.  
+Then $z$ admits a representation of the form
+\[
+z \;=\; \pi \;+\; \varepsilon\,(1+i)^k,
+\]
+where $\pi$ is a Gaussian prime, $\varepsilon\in\{\pm1,\pm i\}$ is a unit,
+and $k\ge0$ is an integer. No counterexamples were found within the tested range ($a^2+b^2<10^{11}$).
+
+\paragraph{Historical remark.}
+The classical one-dimensional analogue concerns representations of odd integers in the form
+\[
+n = p+2^k.
+\]
+This problem goes back to de Polignac, who asked in 1849 whether every odd integer greater than $3$ can be written in this way \cite{depolignac1849}. Although this is false, Romanoff proved in 1934 that the set of integers representable as a prime plus a power of $2$ has positive lower density \cite{romanoff1934} (see \cite{Rieger1961} for a generic field case and \cite{MadritschPlanitzer2017} for the case of Gaussian integers).
+
+\paragraph{Possible route to a counterexample.}
+As in \cite{erdos1950integers,sun2002integers} we could try to construct for each unit
+$\varepsilon_j \in\{ 1,-1, i, -i\}$, a covering system of moduli
+\(
+\{m_{i j}\}_{j=1}^4
+\)
+together with pairwise disjoint sets of distinct Gaussian primes
+\(
+\{p_{i j}\}_{j=1}^4,
+\)
+such that
+\[
+(1+i)^{m_{i j}} \equiv 1 \pmod{p_{i j}}
+\]
+for all relevant indices. One would then attempt to combine these congruences
+to force $\pi = z - \varepsilon_j(1+i)^k$ to be divisible by a Gaussian prime
+from the corresponding set $\{p_{i j}\}$, for each $j=1,2,3,4$, depending on the residue class of $k$. No such covering systems satisfying the required disjointness and congruence conditions were yet found.
+
+
+\begin{thebibliography}{1}
+
+\bibitem{depolignac1849}
+A.~de~Polignac.
+\newblock Recherches nouvelles sur les nombres premiers.
+\newblock {\em Comptes Rendus Hebdomadaires des S\'eances de l'Acad\'emie des
+  Sciences}, 29:397--401, 738--739, 1849.
+
+\bibitem{erdos1950integers}
+P.~Erd\H{o}s.
+\newblock On integers of the form $2^k+p$ and some related problems.
+\newblock {\em Summa Brasil. Math.}, 2:113--123, 1950.
+
+\bibitem{romanoff1934}
+N.~P. Romanoff.
+\newblock \"Uber einige S\"atze der additiven Zahlentheorie.
+\newblock {\em Mathematische Annalen}, 109:668--678, 1934.
+
+\bibitem{sun2002integers}
+Z.-W. Sun.
+\newblock On integers not of the form $\pm  p^a\pm q^b$.
+\newblock {\em Proceedings of the American Mathematical Society},
+  128(4):997--1002, 2000.
+  
+\bibitem{Rieger1961}
+G.~J.~Rieger,
+\emph{Verallgemeinerung zweier S\"atze von Romanov aus der additiven Zahlentheorie},
+Math. Ann. \textbf{144} (1961), 49--55.
+
+\bibitem{MadritschPlanitzer2017}
+M.~G.~Madritsch and S.~Planitzer,
+\emph{Romanov's theorem in number fields},
+arXiv:1512.04869.
+\end{thebibliography}
+
+\end{document}
