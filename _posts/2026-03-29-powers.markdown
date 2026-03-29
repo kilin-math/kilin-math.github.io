@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "A small note on squares and powers of two"
+date:   2026-03-29 09:00:00 +0800
+categories: numbers
+---
+
+For a squarefree integer $m\geq 1$ and an integer $n$, define
+\[
+T_m(n)=\{\,k\geq 1:\ n-2^k = m u^2 \text{ for some } u\in \mathbb Z_{\geq 0}\,\}.
+\]
+
+So $T_m(n)$ records the exponents $k$ for which the dyadic shift $n-2^k$ has squarefree part equal to $m$.
+
+In this note I prove that for every odd squarefree $m\geq 3$,
+\[
+|T_m(n)|\leq 2.
+\]
+
+For the pure square case $m=1$, I prove the sharp bound
+\[
+|T_1(n)|\leq 3.
+\]
+
+Moreover, equality holds infinitely often. For example, for every $t\geq 1$,
+\[
+17\cdot 4^t=(2^{t+2})^2+2^{2t}=(3\cdot 2^t)^2+2^{2t+3}=(2^t)^2+2^{2t+4},
+\]
+so
+\[
+|T_1(17\cdot 4^t)|=3.
+\]
+
+The argument is elementary. In the odd squarefree case, one compares two adjacent identities
+\[
+n-2^{k_i}=m u_i^2,\qquad n-2^{k_{i+1}}=m u_{i+1}^2,
+\]
+subtracts them, and analyzes the resulting factorization
+\[
+m(u_i-u_{i+1})(u_i+u_{i+1})=2^{k_i}(2^{k_{i+1}-k_i}-1).
+\]
+This gives enough rigidity to rule out three occurrences of the same squarefree kernel.
+
+As a corollary, along the sequence
+\[
+n-2,\ n-4,\ n-8,\ n-16,\dots
+\]
+the squarefree kernel cannot repeat too often. In particular, among the first $K$ shifts there are at least about $K/2$ distinct squarefree kernels.
+
+This is a very small note, but I think the statements are neat and perhaps not completely obvious at first sight.
+
+[Here](/assets/numbers/erdos11.pdf) is the note.
