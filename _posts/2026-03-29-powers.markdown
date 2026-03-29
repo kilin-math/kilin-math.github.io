@@ -6,16 +6,16 @@ categories: numbers
 ---
 
 For a squarefree integer $m\geq 1$ and an integer $n$, define
-\(
+[
 T_m(n)=\{\,k\geq 1:\ n-2^k = m u^2 \text{ for some } u\in \mathbb Z_{\geq 0}\,\}.
-\)
+]
 
 So $T_m(n)$ records the exponents $k$ for which the dyadic shift $n-2^k$ has squarefree part equal to $m$.
 
 In this note I prove that for every odd squarefree $m\geq 3$,
-$$
+$
 |T_m(n)|\leq 2.
-$$
+$
 
 For the pure square case $m=1$, I prove the sharp bound
 \[
