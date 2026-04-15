@@ -5,7 +5,7 @@ date:   2025-02-07 10:50:12 +0800
 categories: history
 ---
 
-You’ll find the book in [here](../../../../../files/book-spb.pdf).
+You’ll find the book in [here](/assets/book-spb.pdf).
 
 > “What is the most important thing a scientist should cultivate in himself? 
 > One should get rid of excessive ambition. One should not think that only a genius can be happy. 
