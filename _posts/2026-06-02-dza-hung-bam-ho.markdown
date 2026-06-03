@@ -9,6 +9,8 @@ categories: tibetan buddhism
 ![dza hum bam ho](/assets/dza-hung-bam-ho.png){: style="float: center; width: 20em"}
 -->
 
+![image](/assets/pics/IMG_9975.jpg){: style="float: center; width: 20em"}
+
 A small Tibetan syllable can be surprisingly dense. The sign I was trying to
 understand was not an ordinary Tibetan word, but a tantric syllable: **ཛཿ**,
 usually read in Tibetan pronunciation as **dza**. In Sanskritized
