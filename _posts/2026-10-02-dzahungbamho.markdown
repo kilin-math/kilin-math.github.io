@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dza Hūṃ Baṃ Hoḥ and the Four Gate Goddesses"
-date:   2026-06-03 10:50:12 +0800
+date:   2026-10-03 10:50:12 +0800
 categories: tibetan buddhism
 ---
 
@@ -12,7 +12,7 @@ categories: tibetan buddhism
 ![image](/assets/pics/IMG_9975.jpg){: style="float: center; width: 20em"}
 
 A small Tibetan syllable can be surprisingly dense. The sign I was trying to
-understand was not an ordinary Tibetan word, but a tantric syllable: **ཛཿ**,
+understand was a tantric syllable: **ཛཿ**,
 usually read in Tibetan pronunciation as **dza**. In Sanskritized
 transliteration it is **jaḥ**. The sign on the right, **ཿ**, is the Tibetan
 *rnam bcad*, corresponding to the Sanskrit *visarga*, the final breath-like
@@ -24,11 +24,10 @@ This syllable often appears as part of the fourfold formula
 **dza hūṃ baṃ hoḥ**  
 or, in a more Sanskritized spelling, **jaḥ hūṃ vaṃ hoḥ**.
 
-This is not a sentence in the ordinary grammatical sense. It is a ritual
-formula. Its force is performative rather than descriptive: it does something
+It is a ritual formula. Its force is performative rather than descriptive: it does something
 inside the logic of the rite. In many Vajrayāna contexts it is used in
 connection with invitation, attraction, entrance, binding, and stabilization of
-a wisdom presence.
+a wisdom presence (or a defender).
 
 A rough functional translation would be:
 
