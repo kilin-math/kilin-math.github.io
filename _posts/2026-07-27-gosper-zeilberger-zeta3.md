@@ -50,8 +50,8 @@ summation*](https://www.pnas.org/doi/pdf/10.1073/pnas.75.1.40), PNAS **75** (197
 Лекции были посвящена знаменитому
 доказательству иррациональности \\(`\zeta`{=tex}(3)\\) (см [заметки](/assets/numbers/apery.pdf)). 
 Короткое доказательство с интегралом (после Апери) есть в 
-F. Beukers, *A note on the irrationality of* \\(`\zeta`{=tex}(2)\\)
-*and* \\(`\zeta`{=tex}(3)\\),
+F. Beukers, *A note on the irrationality of* \(\zeta(2)\)
+*and* \(\zeta(3)\),
 
 [тут](https://www.math.ru.nl/\~wzudilin/zw/Beukers79.pdf)
 
