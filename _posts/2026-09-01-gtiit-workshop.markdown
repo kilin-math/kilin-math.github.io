@@ -7,20 +7,18 @@ categories: workshop
 
 ![Traditional architecture in the Shantou area](/assets/workshop/image.png)
 
-## GTIIT workshop in combinatorics, sandpiles, tropical geometry, and number theory
-
 **Dates:** 1–26 September 2026  
 **Venue:** Guangdong Technion – Israel Institute of Technology (GTIIT), Shantou, China
 
-During September we will have a small informal workshop at GTIIT, with about ten visitors coming at different times during the month.
+During September we will have a small informal workshop at GTIIT, with about ten participants coming at different times during the month.
 
 The main topics will be **combinatorics, sandpiles, tropical geometry, and elementary number theory**, with related subjects very welcome. We expect to have many talks and, equally importantly, plenty of time for informal discussions and working sessions.
 
-The workshop is deliberately informal. Many of the talks will be about **work in progress, unfinished projects, open questions, preliminary ideas, or introductory material**, rather than polished final results. The aim is to create an environment in which it is easy to explain a problem, discuss an incomplete argument, try computations, and develop ideas together.
+The workshop is deliberately informal. Many of the talks will be about **work in progress, unfinished projects, open questions, preliminary ideas, or introductory material**, rather than polished final results. The aim is to create an environment in which it is easy to develop ideas together.
 
 ### Format and possible topics
 
-The workshop will be quite informal and discussion-oriented. Each visitor will be invited to give a talk introducing their current research, and I will present several projects and open problems that I would particularly like to discuss with the participants. We expect approximately **2–3 hours of talks per day**, leaving substantial time for discussions and joint work. Around 5–6 September, another group of about five visitors from Bulgaria will join us, and we will continue in the same format. Talks should preferably be given in English, so that students and other interested participants can easily join.
+Each visitor will be invited to give a talk introducing their current research, and I will present several projects and open problems that I would particularly like to discuss with the participants. We expect approximately **2–3 hours of talks per day**, leaving substantial time for discussions and joint work.
 
 Among the topics I plan to discuss is a **tropical approach to the Monge–Ampère equation**, related to [this recent preprint](https://arxiv.org/abs/2607.25878). It would be particularly useful if someone could give an introductory talk on the **classical Monge–Ampère equation**, its geometric meaning and applications, or on **numerical methods for solving Monge–Ampère equations**. If you would like to volunteer for such a talk, please let me know; I can suggest some papers and background material.
 
@@ -30,7 +28,7 @@ Most importantly, talks do **not** have to present finished work. Introductions 
 
 Talks and discussions will be announced on this page as they are scheduled. The programme will therefore evolve throughout September.
 
-**Students are very welcome.** If you know students or colleagues who might be interested in attending some of the talks or discussions, please send them this page.
+**Students are very welcome.** If you know students or colleagues who might be interested in attending some of the talks or discussions, please send them this page (and I can add them to the corresponding wechat group).
 
 ---
 
@@ -44,15 +42,12 @@ The schedule will be updated as talks and discussion sessions are confirmed.
 
 ---
 
-### Talks and discussions
+### Talks, discussions, materials
 
 Details and abstracts will be added here as they become available.
 
 ---
 
-### Participants
-
-A list of visitors and their dates at GTIIT will be added here.
 
 ### Participants
 
