@@ -71,3 +71,7 @@ The list of participants will be updated as further visits are confirmed.
 More details will be announced on this page.
 
 **Organiser:** Nikita Kalinin (GTIIT)
+
+--
+
+**Mathematical cinema** (in the sense of Ernesto Lupercio) should be a place we enter and play in, rather than another format in which finished mathematics is displayed. A mathematical workshop, seminar, or *theater* should let us inhabit a way of thinking: draw the pictures, compute examples, make conjectures, try the wrong proof, discover why it fails, change representations, argue at the blackboard, ask the naïve question, use computation or AI to push beyond what we can immediately see, and then return to the object until its structure becomes our own. The aim is not primarily to produce papers but to **transmit and practise ways of seeing**—so that another mathematician can learn the moves, develop the taste, recognize the obstructions, and eventually continue the mathematics without its originator. Proof remains essential, but the polished theorem–proof sequence is only one trace left by this larger activity. In such a mathematical cinema, **papers come as a side effect**: durable records deposited by a living practice whose real product is mathematicians capable of seeing, questioning, and carrying the mathematics further.
