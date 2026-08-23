@@ -6,7 +6,7 @@ permalink: /about/
 
 I am a mathematican, I work as an Associate professor at Guangdong Technion-Israel Institute of Technology, Shantou, China.
 
-Interests: analytic/elementary number theory around SL(2,Z), Farey fractions, topographs, and lattice sums; continued fractions, affine geometry. 
+Interests: sandpiles; tropical geometry; analytic/elementary number theory around SL(2,Z), Farey fractions, topographs, and lattice sums; continued fractions; affine geometry. 
 
 
 [cv](https://kilin-math.github.io/assets/cv.pdf)
