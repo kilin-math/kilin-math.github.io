@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GTIIT workshop in combinatorics, sandpiles, tropical geometry, and number theory"
-date:   2026-08-23 10:00:00 +0800
+date:   2026-08-22 10:00:00 +0800
 categories: workshop
 ---
 
