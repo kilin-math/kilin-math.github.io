@@ -64,7 +64,10 @@ The list of participants will be updated as further visits are confirmed.
 | 7–26 September | Artem Beliakov | Institute of Mathematics and Informatics, Bulgarian Academy of Sciences, Sofia, Bulgaria | |
 | 7–26 September | [Mikhail Shkolnikov](https://arxiv.org/search/?query=Mikhail+Shkolnikov&searchtype=author) | Institute of Mathematics and Informatics, Bulgarian Academy of Sciences, Sofia, Bulgaria | Tropical geometry, sandpiles, geometry and topology |
 | 7–26 September | [Peter Petrov](https://arxiv.org/search/?query=Peter+Petrov&searchtype=author) | Institute of Mathematics and Informatics, Bulgarian Academy of Sciences, Sofia, Bulgaria | Tropical geometry, phase tropicalization |
-| 8–26 September | Samuel Jean Felix Dentan | Institute of Mathematics and Informatics, Bulgarian Academy of Sciences, Sofia, Bulgaria | |
+| 1–19 September | Abdul Quadir | GTIIT | 
+| 1–26 September | Guillaume Tahar | GTIIT | 
+| 1–26 September | SFaith Shadow Zottor | GTIIT | |
+
 
 ---
 
