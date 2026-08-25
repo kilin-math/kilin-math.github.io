@@ -16,7 +16,7 @@ The main topics will be **combinatorics, sandpiles, tropical geometry, and eleme
 
 The workshop is deliberately informal. Many of the talks will be about **work in progress, unfinished projects, open questions, preliminary ideas, or introductory material**, rather than polished final results. The aim is to create an environment in which it is easy to develop ideas together.
 
-<details>
+<details markdown="1">
 <summary><strong>Format and topics</strong></summary>
 
 Each visitor will be invited to give a talk introducing their current research, and I will present several projects and open problems that I would particularly like to discuss with the participants. We expect approximately **2–3 hours of talks per day**, leaving substantial time for discussions and joint work.
@@ -25,13 +25,14 @@ Among the topics I plan to discuss is a **tropical approach to the Monge–Ampè
 
 Another theme will come from **sandpiles and 2-adic phenomena**. We will discuss an unexpected connection with **Chebyshev polynomials and their arithmetic**, including divisibility and congruence phenomena, 2-adic properties, and related questions in elementary number theory. An introductory talk on Chebyshev polynomials and their number-theoretic aspects would therefore fit very naturally into the programme.
 
-Abdul Quadir will talk  about the limits of **Directed Abelian Sandpiles on Cylinder**. Guillaume Tahar will establish an important partial result concerning the asymptotic part of the **conjecture about line arrangements** decomposing the real projective plane into triangles (they form a particularly rigid class of objects in combinatorial geometry). Also he will speak about the **residual map** associating to each meromorphic differential on a Riemann surface the configuration of its residues at the poles; singular behavior occurs along an arrangement of complex hyperplanes whose topological and combinatorial properties remain largely mysterious.
+Abdul Quadir will talk about the limits of **Directed Abelian Sandpiles on Cylinder**. Guillaume Tahar will establish an important partial result concerning the asymptotic part of the **conjecture about line arrangements** decomposing the real projective plane into triangles (they form a particularly rigid class of objects in combinatorial geometry). He will also speak about the **residual map** associating to each meromorphic differential on a Riemann surface the configuration of its residues at the poles; singular behavior occurs along an arrangement of complex hyperplanes whose topological and combinatorial properties remain largely mysterious.
 
 Most importantly, talks do **not** have to present finished work. Introductions to a subject, work in progress, computations, conjectures, open problems, incomplete arguments, and ideas that one would like to discuss with other participants are all particularly welcome.
 
 Talks and discussions will be announced on this page as they are scheduled. The programme will therefore evolve throughout September.
 
-**Students are very welcome.** If you know students or colleagues who might be interested in attending some of the talks or discussions, please send them this page (and I can add them to the corresponding wechat group).
+**Students are very welcome.** If you know students or colleagues who might be interested in attending some of the talks or discussions, please send them this page (and I can add them to the corresponding WeChat group).
+
 </details>
 
 ---
@@ -148,7 +149,7 @@ The list of participants will be updated as further visits are confirmed.
 
 **Organiser:** Nikita Kalinin (GTIIT)
 
---
+---
 
 
 ![Mathematical cinema](/assets/workshop/image2.png)
