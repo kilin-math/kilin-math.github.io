@@ -17,7 +17,7 @@ The main topics will be **combinatorics, sandpiles, tropical geometry, and eleme
 The workshop is deliberately informal. Many of the talks will be about **work in progress, unfinished projects, open questions, preliminary ideas, or introductory material**, rather than polished final results. The aim is to create an environment in which it is easy to develop ideas together.
 
 <details>
-<summary><strong>Format and possible topics</strong></summary>
+<summary><strong>Format and topics</strong></summary>
 
 Each visitor will be invited to give a talk introducing their current research, and I will present several projects and open problems that I would particularly like to discuss with the participants. We expect approximately **2–3 hours of talks per day**, leaving substantial time for discussions and joint work.
 
@@ -124,6 +124,7 @@ A classical problem of Erdős and Sós asks how large a family of k-element subs
 
 
 ### Participants
+
 <details>
 <summary><strong>The list of participants will be updated as further visits are confirmed.</summary></strong>
 
@@ -144,6 +145,7 @@ A classical problem of Erdős and Sós asks how large a family of k-element subs
 
 
 </details>
+
 ---
 
 
