@@ -159,4 +159,159 @@ More details will be announced on this page.
 
 --
 
-**Mathematical cinema** (in the sense of Ernesto Lupercio) should be a place we enter and play in, rather than another format in which finished mathematics is displayed. A mathematical workshop, seminar, or *theater* should let us inhabit a way of thinking: draw the pictures, compute examples, make conjectures, try the wrong proof, discover why it fails, change representations, argue at the blackboard, ask the naïve question, use computation or AI to push beyond what we can immediately see, and then return to the object until its structure becomes our own. The aim is not primarily to produce papers but to **transmit and practise ways of seeing**—so that another mathematician can learn the moves, develop the taste, recognize the obstructions, and eventually continue the mathematics without its originator. Proof remains essential, but the polished theorem–proof sequence is only one trace left by this larger activity. In such a mathematical cinema, **papers come as a side effect**: durable records deposited by a living practice whose real product is mathematicians capable of seeing, questioning, and carrying the mathematics further.
+
+![Mathematical cinema](/assets/workshop/image2.png)
+
+## Mathematical cinema
+
+**Mathematical cinema**  
+*(in the sense of Ernesto Lupercio)*
+
+should not be a screen  
+&emsp;&emsp;&emsp;where finished mathematics  
+&emsp;&emsp;&emsp;&emsp;&emsp;is displayed.
+
+It should be a place  
+&emsp;&emsp;we **enter**.
+
+&emsp;&emsp;&emsp;&emsp;A place  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;we **play in**.
+
+A workshop.  
+&emsp;&emsp;&emsp;A seminar.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A *theater*—
+
+where we inhabit  
+&emsp;&emsp;&emsp;&emsp;a way  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;of thinking.
+
+**Draw the pictures!**
+
+&emsp;&emsp;&emsp;Compute examples!
+
+&emsp;&emsp;&emsp;&emsp;&emsp;Make conjectures.
+
+Try  
+&emsp;&emsp;the wrong  
+&emsp;&emsp;&emsp;&emsp;proof.
+
+Let it  
+&emsp;&emsp;&emsp;**fail**.
+
+Find out  
+&emsp;&emsp;&emsp;&emsp;**why**  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;it fails.
+
+Change  
+&emsp;&emsp;&emsp;the representation.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;Argue  
+&emsp;&emsp;&emsp;at the blackboard.
+
+Ask  
+&emsp;&emsp;&emsp;&emsp;the naïve question.
+
+Compute.
+
+&emsp;&emsp;&emsp;Use AI.
+
+Push  
+&emsp;&emsp;&emsp;beyond  
+&emsp;&emsp;&emsp;&emsp;&emsp;what we can immediately see—
+
+then  
+&emsp;&emsp;&emsp;&emsp;return.
+
+Return  
+&emsp;&emsp;&emsp;to the object.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;Again.
+
+Until  
+&emsp;&emsp;&emsp;its structure  
+&emsp;&emsp;&emsp;&emsp;&emsp;becomes
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**our own**.
+
+---
+
+The aim  
+&emsp;&emsp;is not primarily  
+&emsp;&emsp;&emsp;&emsp;to produce papers.
+
+The aim  
+&emsp;&emsp;&emsp;is to
+
+&emsp;&emsp;&emsp;&emsp;&emsp;**transmit  
+&emsp;&emsp;&emsp;&emsp;&emsp;and practise  
+&emsp;&emsp;&emsp;&emsp;&emsp;ways of seeing.**
+
+So that another mathematician  
+&emsp;&emsp;&emsp;can learn the moves,
+
+&emsp;&emsp;&emsp;&emsp;&emsp;develop the taste,
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;recognize the obstruction,
+
+know  
+&emsp;&emsp;where to push  
+&emsp;&emsp;&emsp;&emsp;and where not to push—
+
+and eventually
+
+&emsp;&emsp;&emsp;&emsp;&emsp;**continue the mathematics  
+&emsp;&emsp;&emsp;&emsp;&emsp;without its originator.**
+
+---
+
+Proof  
+&emsp;&emsp;&emsp;remains essential.
+
+But the polished sequence
+
+&emsp;&emsp;&emsp;&emsp;**THEOREM.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**PROOF.**
+
+is only  
+&emsp;&emsp;&emsp;one trace—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;one footprint—
+
+left behind  
+&emsp;&emsp;&emsp;&emsp;by the larger activity.
+
+---
+
+In mathematical cinema,
+
+&emsp;&emsp;&emsp;&emsp;&emsp;**papers come  
+&emsp;&emsp;&emsp;&emsp;&emsp;as a side effect.**
+
+Durable records.
+
+&emsp;&emsp;&emsp;Deposits  
+&emsp;&emsp;&emsp;&emsp;&emsp;left by a living practice.
+
+Because  
+&emsp;&emsp;its real product  
+&emsp;&emsp;&emsp;&emsp;is not the paper.
+
+Its real product  
+&emsp;&emsp;&emsp;&emsp;is mathematicians—
+
+capable  
+&emsp;&emsp;of seeing,
+
+&emsp;&emsp;&emsp;&emsp;questioning,
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;trying,
+
+&emsp;&emsp;&emsp;failing,
+
+&emsp;&emsp;&emsp;&emsp;&emsp;seeing again—
+
+and carrying  
+&emsp;&emsp;&emsp;&emsp;the mathematics
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**further.**
