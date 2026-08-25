@@ -126,27 +126,6 @@ A classical problem of Erdős and Sós asks how large a family of k-element subs
 ---
 
 
-### Participants
-
-The list of participants will be updated as further visits are confirmed.
-
-| Dates | Participant | Affiliation / status | Research interests |
-|---|---|---|---|
-| 1–11 September | [Elizaveta Iarovikova](https://combgeo.org/en/iarovikova-elizaveta/) | Moscow Institute of Physics and Technology (MIPT); Master's student and Teaching Assistant | Extremal combinatorics, graph theory, linear-algebraic methods in combinatorics |
-| 1–4 September | [Maxim Klimenko](https://combgeo.org/en/members/) | Laboratory of Discrete and Combinatorial Optimization, MIPT; second-year Master's student | Algorithms, discrete geometry, computational complexity, extremal combinatorics |
-| 1–11 September | [Andrey Kupavskii](https://kupavskii.com/) | Head of the Laboratory of Combinatorial and Geometric Structures, MIPT | Extremal combinatorics, discrete and computational geometry, probabilistic methods, analysis of Boolean functions |
-| 1–11 September | Yakov Shubin | Laboratory of Combinatorial and Geometric Structures, MIPT; third-year PhD student | Extremal combinatorics, Johnson schemes, discrete geometry |
-| 1–11 September | [Georgy Sokolov](https://arxiv.org/search/?query=Georgy+Sokolov&searchtype=author) | Laboratory of Discrete and Combinatorial Optimization, MIPT; second-year PhD student | Extremal and geometric combinatorics, graph theory |
-| 1–11 September | [Nikolai Terekhov](https://arxiv.org/search/?query=Nikolai+Terekhov&searchtype=author) | Laboratory of Combinatorial and Geometric Structures, MIPT; second-year PhD student | Extremal combinatorics, weak saturation, graphs and hypergraphs |
-| 7–26 September | Artem Beliakov | Institute of Mathematics and Informatics, Bulgarian Academy of Sciences, Sofia, Bulgaria | |
-| 7–26 September | [Mikhail Shkolnikov](https://arxiv.org/search/?query=Mikhail+Shkolnikov&searchtype=author) | Institute of Mathematics and Informatics, Bulgarian Academy of Sciences, Sofia, Bulgaria | Tropical geometry, sandpiles, geometry and topology |
-| 7–26 September | [Peter Petrov](https://arxiv.org/search/?query=Peter+Petrov&searchtype=author) | Institute of Mathematics and Informatics, Bulgarian Academy of Sciences, Sofia, Bulgaria | Tropical geometry, phase tropicalization |
-| 1–19 September | Abdul Quadir | GTIIT | 
-| 1–26 September | Guillaume Tahar | GTIIT | 
-| 1–26 September | Faith Shadow Zottor | GTIIT | |
-
-
----
 
 
 **Organiser:** Nikita Kalinin (GTIIT)
