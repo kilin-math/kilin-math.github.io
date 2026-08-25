@@ -41,9 +41,8 @@ The schedule will be updated as talks and discussion sessions are confirmed.
 ### Talks, materials
 
 **Abdul Quadir**  
-*Algebraic and Dynamical Structures in Directed Abelian Sandpiles on Cylinder*
 <details>
-<summary><strong>Details</strong></summary>
+<summary><strong>Algebraic and Dynamical Structures in Directed Abelian Sandpiles on Cylinder</strong></summary>
 
 Self-organized criticality (SOC) describes how slowly driven dissipative systems can spontaneously organize into a critical state without external fine-tuning, exhibiting scale-free avalanches and long-range correlations. The sandpile model provides a paradigmatic realization of SOC, in which the addition of individual grains, followed by local threshold-driven relaxation, generates avalanches across a broad range of scales.
 
