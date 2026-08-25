@@ -24,7 +24,7 @@ Among the topics I plan to discuss is a **tropical approach to the Monge–Ampè
 
 Another theme will come from **sandpiles and 2-adic phenomena**. We will discuss an unexpected connection with **Chebyshev polynomials and their arithmetic**, including divisibility and congruence phenomena, 2-adic properties, and related questions in elementary number theory. An introductory talk on Chebyshev polynomials and their number-theoretic aspects would therefore fit very naturally into the programme.
 
-Abdul Quadir will talk  about the limits of the sandpile groups of directed cylinders.
+Abdul Quadir will talk  about the limits of **Directed Abelian Sandpiles on Cylinder**.
 
 Most importantly, talks do **not** have to present finished work. Introductions to a subject, work in progress, computations, conjectures, open problems, incomplete arguments, and ideas that one would like to discuss with other participants are all particularly welcome.
 
@@ -37,31 +37,10 @@ Talks and discussions will be announced on this page as they are scheduled. The 
 ### Schedule
 
 The schedule will be updated as talks and discussion sessions are confirmed.
+
 | Date | Time | Speaker | Title / topic |
 |------|------|---------|---------------|
-| TBA  | TBA  | Abdul Quadir | [Algebraic and Dynamical Structures in Directed Abelian Sandpiles on Cylinder](#quadir-sandpile) |
-
-
-
-
-
-<a id="quadir-sandpile"></a>
-
-### Algebraic and Dynamical Structures in Directed Abelian Sandpiles on Cylinder
-
-**Speaker:** Abdul Quadir
-
-<details>
-<summary><strong>Abstract</strong></summary>
-
-Self-organized criticality (SOC) describes how slowly driven dissipative systems can spontaneously organize into a critical state without external fine-tuning, exhibiting scale-free avalanches and long-range correlations. The sandpile model provides a paradigmatic realization of SOC, in which the addition of individual grains, followed by local threshold-driven relaxation, generates avalanches across a broad range of scales.
-
-The directed Abelian sandpile model on cylinder provides a setting for exploring the interplay between critical dynamics, algebraic structure, and topology. For a cylinder of longitudinal length \(n\) and circumference \(L\), recurrent configurations can be characterized through a finite Abelian sandpile group, whose structure can be resolved using the Smith normal form. Natural maps between groups of different system sizes lead to algebraic hierarchies described by inverse and direct systems, along with their corresponding projective (profinite) and inductive limits. The compatibility of these constructions, sufficient conditions for the commutation of the corresponding limiting procedures, and possible obstructions in the general case will be discussed.
-
-Connections between these algebraic structures and recurrent configurations, periodic and randomly driven dynamics, avalanche statistics, and random-walk behavior will also be presented. The hierarchy across system sizes further provides a possible route toward algebraic coarse-graining and renormalization, linking SOC dynamics, finite Abelian groups, and scale transformations within a common framework.
-
-</details>
-
+| TBA | TBA | Abdul Quadir | <details><summary><strong>Algebraic and Dynamical Structures in Directed Abelian Sandpiles on Cylinder</strong></summary>Self-organized criticality (SOC) describes how slowly driven dissipative systems can spontaneously organize into a critical state without external fine-tuning, exhibiting scale-free avalanches and long-range correlations. The sandpile model provides a paradigmatic realization of SOC, in which the addition of individual grains, followed by local threshold-driven relaxation, generates avalanches across a broad range of scales. The directed Abelian sandpile model on cylinder provides a setting for exploring the interplay between critical dynamics, algebraic structure, and topology. For a cylinder of longitudinal length \(n\) and circumference \(L\), recurrent configurations can be characterized through a finite Abelian sandpile group, whose structure can be resolved using the Smith normal form. Natural maps between groups of different system sizes lead to algebraic hierarchies described by inverse and direct systems, along with their corresponding projective (profinite) and inductive limits. The compatibility of these constructions, sufficient conditions for the commutation of the corresponding limiting procedures, and possible obstructions in the general case will be discussed. Connections between these algebraic structures and recurrent configurations, periodic and randomly driven dynamics, avalanche statistics, and random-walk behavior will also be presented. The hierarchy across system sizes further provides a possible route toward algebraic coarse-graining and renormalization, linking SOC dynamics, finite Abelian groups, and scale transformations within a common framework.</details> |
 ---
 
 ### Talks, discussions, materials
