@@ -125,8 +125,7 @@ A classical problem of Erdős and Sós asks how large a family of k-element subs
 
 ### Participants
 
-<details>
-<summary><strong>The list of participants will be updated as further visits are confirmed.</summary></strong>
+The list of participants will be updated as further visits are confirmed.
 
 | Dates | Participant | Affiliation / status | Research interests |
 |---|---|---|---|
@@ -143,8 +142,6 @@ A classical problem of Erdős and Sós asks how large a family of k-element subs
 | 1–26 September | Guillaume Tahar | GTIIT | 
 | 1–26 September | Faith Shadow Zottor | GTIIT | |
 
-
-</details>
 
 ---
 
