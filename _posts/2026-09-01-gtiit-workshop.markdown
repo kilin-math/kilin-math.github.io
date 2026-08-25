@@ -14,8 +14,6 @@ During September we will have a small informal workshop at GTIIT, with about ten
 
 The main topics will be **combinatorics, sandpiles, tropical geometry, and elementary number theory**, with related subjects very welcome. We expect to have many talks and, equally importantly, plenty of time for informal discussions and working sessions.
 
-The workshop is deliberately informal. Many of the talks will be about **work in progress, unfinished projects, open questions, preliminary ideas, or introductory material**, rather than polished final results. The aim is to create an environment in which it is easy to develop ideas together.
-
 <details markdown="1">
 <summary><strong>Format and topics</strong></summary>
 
@@ -34,6 +32,10 @@ Talks and discussions will be announced on this page as they are scheduled. The 
 **Students are very welcome.** If you know students or colleagues who might be interested in attending some of the talks or discussions, please send them this page (and I can add them to the corresponding WeChat group).
 
 </details>
+
+
+The workshop is deliberately informal. Many of the talks will be about **work in progress, unfinished projects, open questions, preliminary ideas, or introductory material**, rather than polished final results. The aim is to create an environment in which it is easy to develop ideas together.
+
 
 ---
 
@@ -124,6 +126,25 @@ A classical problem of Erdős and Sós asks how large a family of k-element subs
 
 
 ---
+
+<details>
+<summary><strong>(Maksim Klimenko) Covering integer points of euclidean ball by subspaces</strong></summary>
+Let $C \subset \mathbb{R}^n$ be an central-symmetric convex body, and let $g(C)$ denote the minimum number of proper linear subspaces required to cover lattice points inside $C$. In 2002, Bárány, Harcos, Pach, and Tardos established general lower and upper bounds for this quantity. In talk we discuss the connection between this problem and lattice packing densities, and improved upper bounds which rely on this link. Also we will talk about lower bounds and related algorithms
+
+</details>
+
+---
+
+<details>
+<summary><strong>(Elizaveta Iarovikova) Intersecting families of linear spaces</strong></summary>
+We discuss large families of k-dimensional subspaces of an n-dimensional space over a finite field such that any two subspaces have intersection of dimension at least t. If n>2k the largest possible family consists of all subspaces that contain a fixed t-dimensional space, if n<2k, the largest example is the family of all subspaces of some fixes (2k-t)-subspace. If n=2k, both example are possible, moreover they are dual. 
+
+We are interested, how large can these families be if they are different from examples discussed above. We will discuss several results in this field and several approaches such as  spread-approximations method and spectral analysis of the Grassman scheme.
+
+</details>
+
+---
+
 
 
 
