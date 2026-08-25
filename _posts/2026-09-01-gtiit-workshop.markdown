@@ -123,11 +123,9 @@ A classical problem of Erdős and Sós asks how large a family of k-element subs
 ---
 
 
-
+### Participants
 <details>
-<summary><strong>Participants</summary></strong>
-
-The list of participants will be updated as further visits are confirmed.
+<summary><strong>The list of participants will be updated as further visits are confirmed.</summary></strong>
 
 | Dates | Participant | Affiliation / status | Research interests |
 |---|---|---|---|
