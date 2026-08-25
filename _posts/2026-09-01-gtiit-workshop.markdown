@@ -24,7 +24,7 @@ Among the topics I plan to discuss is a **tropical approach to the Monge–Ampè
 
 Another theme will come from **sandpiles and 2-adic phenomena**. We will discuss an unexpected connection with **Chebyshev polynomials and their arithmetic**, including divisibility and congruence phenomena, 2-adic properties, and related questions in elementary number theory. An introductory talk on Chebyshev polynomials and their number-theoretic aspects would therefore fit very naturally into the programme.
 
-Abdul Quadir will talk  about the limits of **Directed Abelian Sandpiles on Cylinder**.
+Abdul Quadir will talk  about the limits of **Directed Abelian Sandpiles on Cylinder**. Guillaume Tahar will establish an important partial result concerning the asymptotic part of the **conjecture about line arrangements** decomposing the real projective plane into triangles (they form a particularly rigid class of objects in combinatorial geometry). Also he will speak about the **residual map** associating to each meromorphic differential on a Riemann surface the configuration of its residues at the poles; singular behavior occurs along an arrangement of complex hyperplanes whose topological and combinatorial properties remain largely mysterious.
 
 Most importantly, talks do **not** have to present finished work. Introductions to a subject, work in progress, computations, conjectures, open problems, incomplete arguments, and ideas that one would like to discuss with other participants are all particularly welcome.
 
@@ -38,16 +38,51 @@ Talks and discussions will be announced on this page as they are scheduled. The 
 
 The schedule will be updated as talks and discussion sessions are confirmed.
 
-| Date | Time | Speaker | Title / topic |
-|------|------|---------|---------------|
-| TBA | TBA | Abdul Quadir | <details><summary><strong>Algebraic and Dynamical Structures in Directed Abelian Sandpiles on Cylinder</strong></summary>Self-organized criticality (SOC) describes how slowly driven dissipative systems can spontaneously organize into a critical state without external fine-tuning, exhibiting scale-free avalanches and long-range correlations. The sandpile model provides a paradigmatic realization of SOC, in which the addition of individual grains, followed by local threshold-driven relaxation, generates avalanches across a broad range of scales. The directed Abelian sandpile model on cylinder provides a setting for exploring the interplay between critical dynamics, algebraic structure, and topology. For a cylinder of longitudinal length \(n\) and circumference \(L\), recurrent configurations can be characterized through a finite Abelian sandpile group, whose structure can be resolved using the Smith normal form. Natural maps between groups of different system sizes lead to algebraic hierarchies described by inverse and direct systems, along with their corresponding projective (profinite) and inductive limits. The compatibility of these constructions, sufficient conditions for the commutation of the corresponding limiting procedures, and possible obstructions in the general case will be discussed. Connections between these algebraic structures and recurrent configurations, periodic and randomly driven dynamics, avalanche statistics, and random-walk behavior will also be presented. The hierarchy across system sizes further provides a possible route toward algebraic coarse-graining and renormalization, linking SOC dynamics, finite Abelian groups, and scale transformations within a common framework.</details> |
+### Talks, materials
+
+**Abdul Quadir**  
+*Algebraic and Dynamical Structures in Directed Abelian Sandpiles on Cylinder*
+
+<details>
+<summary><strong>Details</strong></summary>
+
+Self-organized criticality (SOC) describes how slowly driven dissipative systems can spontaneously organize into a critical state without external fine-tuning, exhibiting scale-free avalanches and long-range correlations. The sandpile model provides a paradigmatic realization of SOC, in which the addition of individual grains, followed by local threshold-driven relaxation, generates avalanches across a broad range of scales.
+
+The directed Abelian sandpile model on a cylinder provides a setting for exploring the interplay between critical dynamics, algebraic structure, and topology. For a cylinder of longitudinal length \(n\) and circumference \(L\), recurrent configurations can be characterized through a finite Abelian sandpile group, whose structure can be resolved using the Smith normal form. Natural maps between groups of different system sizes lead to algebraic hierarchies described by inverse and direct systems, along with their corresponding projective (profinite) and inductive limits.
+
+The compatibility of these constructions, sufficient conditions for the commutation of the corresponding limiting procedures, and possible obstructions in the general case will be discussed.
+
+Connections between these algebraic structures and recurrent configurations, periodic and randomly driven dynamics, avalanche statistics, and random-walk behavior will also be presented. The hierarchy across system sizes further provides a possible route toward algebraic coarse-graining and renormalization, linking SOC dynamics, finite Abelian groups, and scale transformations within a common framework.
+
+</details>
+
 ---
 
-### Talks, discussions, materials
+**Guillaume Tahar**  
+*Simplicial arrangements and the geometry of planar cubic curves*
 
-Details and abstracts will be added here as they become available.
+<details>
+<summary><strong>Details</strong></summary>
+
+In their solution to the orchard-planting problem, Green and Tao established a structure theorem which proves that in a line arrangement in the real projective plane with few double points, most lines are tangent to the dual curve of a cubic curve. We provide geometric arguments to prove that in the case of a simplicial arrangement, the aforementioned cubic curve cannot be irreducible. Combining this theorem with a rigidity result on regular simplicial arrangements, we obtain that Grünbaum's conjectural asymptotic classification of simplicial arrangements holds under the additional hypothesis of a linear bound on the number of double points. This is a joint work with Dmitri Panov.
+
+</details>
 
 ---
+
+**Guillaume Tahar**  
+*Resonance hyperplanes arrangements in the moduli theory of differential forms*
+
+<details>
+<summary><strong>Details</strong></summary>
+
+Given a stratum of meromorphic one-forms on a Riemann surface with prescribed orders of zeros and poles, the residual map assigns to each differential the collection of its residues at the poles. In this talk, we will review the topological features of the residual map: the characterization of its singular locus, the topology of its isoresidual fibers, and, if time allows, its monodromy.In the complex vector space of residue configurations, the resonance arrangement is the union of the hyperplanes defined by the vanishing of a nontrivial partial sum of residues. This complex hyperplane arrangement is closely related to the braid arrangement, but its topological and combinatorial properties remain largely unknown. We show that, over each open flat of the stratification induced by the resonance arrangement, the restriction of the residual map is a topological fibration. This result follows from a geometric interpretation of meromorphic differentials in terms of translation structures, which we will explain for strata with one or two zeros. This is joint work, mostly with Dawei Chen, Quentin Gendron, Miguel Prado, and Nick Salter.
+
+</details>
+
+
+---
+
 
 
 ### Participants
