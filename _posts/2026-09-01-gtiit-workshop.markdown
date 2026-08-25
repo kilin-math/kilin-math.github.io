@@ -16,7 +16,8 @@ The main topics will be **combinatorics, sandpiles, tropical geometry, and eleme
 
 The workshop is deliberately informal. Many of the talks will be about **work in progress, unfinished projects, open questions, preliminary ideas, or introductory material**, rather than polished final results. The aim is to create an environment in which it is easy to develop ideas together.
 
-### Format and possible topics
+<details>
+<summary><strong>Format and possible topics</strong></summary>
 
 Each visitor will be invited to give a talk introducing their current research, and I will present several projects and open problems that I would particularly like to discuss with the participants. We expect approximately **2–3 hours of talks per day**, leaving substantial time for discussions and joint work.
 
@@ -31,15 +32,15 @@ Most importantly, talks do **not** have to present finished work. Introductions 
 Talks and discussions will be announced on this page as they are scheduled. The programme will therefore evolve throughout September.
 
 **Students are very welcome.** If you know students or colleagues who might be interested in attending some of the talks or discussions, please send them this page (and I can add them to the corresponding wechat group).
+</details>
 
 ---
 
-### Schedule
 
+
+
+### Schedule, abstracts, materials
 The schedule will be updated as talks and discussion sessions are confirmed.
-
-### Talks, materials
-
 
 <details>
 <summary><strong>(Abdul Quadir) Algebraic and Dynamical Structures in Directed Abelian Sandpiles on Cylinder</strong></summary>
@@ -123,7 +124,8 @@ A classical problem of Erdős and Sós asks how large a family of k-element subs
 
 
 
-### Participants
+<details>
+<summary><strong>Participants</summary></strong>
 
 The list of participants will be updated as further visits are confirmed.
 
@@ -143,9 +145,9 @@ The list of participants will be updated as further visits are confirmed.
 | 1–26 September | Faith Shadow Zottor | GTIIT | |
 
 
+</details>
 ---
 
-More details will be announced on this page.
 
 **Organiser:** Nikita Kalinin (GTIIT)
 
