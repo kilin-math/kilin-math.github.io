@@ -40,8 +40,7 @@ The schedule will be updated as talks and discussion sessions are confirmed.
 
 ### Talks, materials
 
-**Abdul Quadir**  
-<details>
+**Abdul Quadir**  <details>
 <summary><strong>Algebraic and Dynamical Structures in Directed Abelian Sandpiles on Cylinder</strong></summary>
 
 Self-organized criticality (SOC) describes how slowly driven dissipative systems can spontaneously organize into a critical state without external fine-tuning, exhibiting scale-free avalanches and long-range correlations. The sandpile model provides a paradigmatic realization of SOC, in which the addition of individual grains, followed by local threshold-driven relaxation, generates avalanches across a broad range of scales.
@@ -57,10 +56,9 @@ Connections between these algebraic structures and recurrent configurations, per
 
 ---
 
-**Guillaume Tahar**  
-*Simplicial arrangements and the geometry of planar cubic curves*
+**Guillaume Tahar** 
 <details>
-<summary><strong>Details</strong></summary>
+<summary><strong>Simplicial arrangements and the geometry of planar cubic curves</strong></summary>
 
 In their solution to the orchard-planting problem, Green and Tao established a structure theorem which proves that in a line arrangement in the real projective plane with few double points, most lines are tangent to the dual curve of a cubic curve. We provide geometric arguments to prove that in the case of a simplicial arrangement, the aforementioned cubic curve cannot be irreducible. Combining this theorem with a rigidity result on regular simplicial arrangements, we obtain that Grünbaum's conjectural asymptotic classification of simplicial arrangements holds under the additional hypothesis of a linear bound on the number of double points. This is a joint work with Dmitri Panov.
 
