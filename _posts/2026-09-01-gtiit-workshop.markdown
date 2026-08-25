@@ -67,9 +67,8 @@ In their solution to the orchard-planting problem, Green and Tao established a s
 ---
 
 **Guillaume Tahar**  
-*Resonance hyperplanes arrangements in the moduli theory of differential forms*
 <details>
-<summary><strong>Details</strong></summary>
+<summary><strong>Resonance hyperplanes arrangements in the moduli theory of differential forms</strong></summary>
 
 Given a stratum of meromorphic one-forms on a Riemann surface with prescribed orders of zeros and poles, the residual map assigns to each differential the collection of its residues at the poles. In this talk, we will review the topological features of the residual map: the characterization of its singular locus, the topology of its isoresidual fibers, and, if time allows, its monodromy.In the complex vector space of residue configurations, the resonance arrangement is the union of the hyperplanes defined by the vanishing of a nontrivial partial sum of residues. This complex hyperplane arrangement is closely related to the braid arrangement, but its topological and combinatorial properties remain largely unknown. We show that, over each open flat of the stratification induced by the resonance arrangement, the restriction of the residual map is a topological fibration. This result follows from a geometric interpretation of meromorphic differentials in terms of translation structures, which we will explain for strata with one or two zeros. This is joint work, mostly with Dawei Chen, Quentin Gendron, Miguel Prado, and Nick Salter.
 
@@ -78,9 +77,8 @@ Given a stratum of meromorphic one-forms on a Riemann surface with prescribed or
 ---
 
 **Georgy Sokolov**  
-*On Erdos-Kleitman problem*
 <details>
-<summary><strong>Details</strong></summary>
+<summary><strong>On Erdos-Kleitman problem</strong></summary>
 
 Let e(n, s) denote the maximum number of subsets of an $n$-element set that do not contain $s$ pairwise disjoint sets. The study of e(n, s) was initiated by Erdos in 1960s. Initially, Erdos asked about the case n=ms-1, since he had a plausible conjecture about the extremal family for this case.  Soon after the problem was stated, Kleitman proved the conjecture and also determined e(ms, s). However, the problem turned out to be very hard for other residues of n modulo s. For many regimes even a probable conjecture about the extremal family wasn't known for long time.
 We will discuss a series of recent papers by Frankl and Kupavskii, Kupavskii and Sokolov and by Chi and Wang that led to solving the problem in various new regimes and stating a rather probable general conjecture.
@@ -90,10 +88,9 @@ We will discuss a series of recent papers by Frankl and Kupavskii, Kupavskii and
 
 ---
 
-**Nikolai Terekhov**  
-*Weak Saturation and the Rank of a Closure System*
+**Nikolai Terekhov** 
 <details>
-<summary><strong>Details</strong></summary>
+<summary><strong>Weak Saturation and the Rank of a Closure System</strong></summary>
 
 The weak saturation number of $K_t$ in $K_n$ is the minimum number of edges in an $n$-vertex graph $F$ such that the missing edges can be added one at a time in some order, with each added edge creating a new copy of the clique $K_t$. Despite the simplicity of this definition, determining these numbers for all $t$ requires a linear-algebraic method, and no combinatorial proof is known.
 
@@ -103,10 +100,9 @@ We will present a more general and natural perspective on weak saturation proble
 
 
 ---
-**Nikolai Terekhov**  
-*Entropy and $(k,L)$-Systems*
+**Nikolai Terekhov** 
 <details>
-<summary><strong>Details</strong></summary>
+<summary><strong>Entropy and $(k,L)$-Systems</strong></summary>
 
 For an integer $k$ and a set of integers $L$, a $(k,L)$-system is a family of $k$-element subsets such that the size of the intersection of any two distinct members belongs to $L$.
 
@@ -116,10 +112,9 @@ We will show that the asymptotic behavior, as $n\to\infty$, of the maximum size 
 
 
 ---
-**Jacob Shubin**  
-*Supersaturation in the  Erdős-Sós problem*
+**Jacob Shubin** 
 <details>
-<summary><strong>Details</strong></summary>
+<summary><strong>Supersaturation in the  Erdős-Sós problem</strong></summary>
 A classical problem of Erdős and Sós asks how large a family of k-element subsets of an n-element set can be if no two members intersect in exactly t elements. We study the corresponding supersaturation problem: for a family of a given size, what is the smallest possible number of pairs that intersect in exactly t elements?
 
 </details>
