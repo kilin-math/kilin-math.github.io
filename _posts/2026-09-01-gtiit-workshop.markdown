@@ -34,6 +34,10 @@ Talks and discussions will be announced on this page as they are scheduled. The 
 </details>
 
 
+---
+
+
+
 The workshop is deliberately informal. Many of the talks will be about **work in progress, unfinished projects, open questions, preliminary ideas, or introductory material**, rather than polished final results. The aim is to create an environment in which it is easy to develop ideas together.
 
 
@@ -47,6 +51,66 @@ The workshop is deliberately informal. Many of the talks will be about **work in
 ### Schedule, abstracts, materials
 The schedule will be updated as talks and discussion sessions are confirmed.
 
+Monday, 31 August, 10:00, E2-106, SC. (Nikita Kalinin) Introduction to sandpiles. Open problems.
+
+Monday, 31 August, 16:15, E2-106, SC. (Nikita Kalinin) Introduction to sandpile groups.
+
+Wednesday, 2 September, 10:00, E2-106, SC. (Anrdey Kupavskii) Introduction to extremal combinatorics.
+
+Wednesday, 2 September, 10:00, E2-106, SC. 
+
+<details>
+<summary><strong>(Guillaume Tahar) Simplicial arrangements and the geometry of planar cubic curves</strong></summary>
+
+In their solution to the orchard-planting problem, Green and Tao established a structure theorem which proves that in a line arrangement in the real projective plane with few double points, most lines are tangent to the dual curve of a cubic curve. We provide geometric arguments to prove that in the case of a simplicial arrangement, the aforementioned cubic curve cannot be irreducible. Combining this theorem with a rigidity result on regular simplicial arrangements, we obtain that Grünbaum's conjectural asymptotic classification of simplicial arrangements holds under the additional hypothesis of a linear bound on the number of double points. This is a joint work with Dmitri Panov.
+
+</details>
+
+---
+
+Thursday, 3 September 10:15, E2-106, SC.
+
+<details>
+<summary><strong>(Maksim Klimenko) Covering integer points of euclidean ball by subspaces</strong></summary>
+Let $C \subset \mathbb{R}^n$ be an central-symmetric convex body, and let $g(C)$ denote the minimum number of proper linear subspaces required to cover lattice points inside $C$. In 2002, Bárány, Harcos, Pach, and Tardos established general lower and upper bounds for this quantity. In talk we discuss the connection between this problem and lattice packing densities, and improved upper bounds which rely on this link. Also we will talk about lower bounds and related algorithms
+
+</details>
+
+---
+
+Thursday, 3 September 16:15, E2-106, SC.
+
+
+<details>
+<summary><strong>(Elizaveta Iarovikova) Intersecting families of linear spaces</strong></summary>
+We discuss large families of k-dimensional subspaces of an n-dimensional space over a finite field such that any two subspaces have intersection of dimension at least t. If n>2k the largest possible family consists of all subspaces that contain a fixed t-dimensional space, if n<2k, the largest example is the family of all subspaces of some fixes (2k-t)-subspace. If n=2k, both example are possible, moreover they are dual. 
+
+We are interested, how large can these families be if they are different from examples discussed above. We will discuss several results in this field and several approaches such as  spread-approximations method and spectral analysis of the Grassman scheme.
+
+</details>
+
+---
+
+Friday, 4 September, 10:15, E2-106, SC.
+
+<details>
+<summary><strong>(Nikolai Terekhov) Weak Saturation and the Rank of a Closure System</strong></summary>
+
+The weak saturation number of $K_t$ in $K_n$ is the minimum number of edges in an $n$-vertex graph $F$ such that the missing edges can be added one at a time in some order, with each added edge creating a new copy of the clique $K_t$. Despite the simplicity of this definition, determining these numbers for all $t$ requires a linear-algebraic method, and no combinatorial proof is known.
+
+We will present a more general and natural perspective on weak saturation problems. This framework unifies a number of related questions and helps explain why linear-algebraic methods are so effective in weak saturation numbers.
+
+</details>
+
+
+---
+
+Monday, 7 September, 10:00, E2-106, SC. 2-adic phenomena in sandpiles-1.
+
+Monday, 7 September, 16:00, E2-106, SC. 2-adic phenomena in sandpiles-2.
+
+Tuesday, 8 September, 10:00, E2-106, SC.
+ 
 <details>
 <summary><strong>(Abdul Quadir) Algebraic and Dynamical Structures in Directed Abelian Sandpiles on Cylinder</strong></summary>
 
@@ -60,18 +124,49 @@ Connections between these algebraic structures and recurrent configurations, per
 
 </details>
 
+Tuesday, 8 September, 16:00, E2-106, SC.  (Abdul Quadir) Algebraic and Dynamical Structures in Directed Abelian Sandpiles on Cylinder
 
 ---
  
-<details>
-<summary><strong>(Guillaume Tahar) Simplicial arrangements and the geometry of planar cubic curves</strong></summary>
+Wednesday, 9 September, 10:00, E2-106, SC. Introduction to tropical geometry-1.
 
-In their solution to the orchard-planting problem, Green and Tao established a structure theorem which proves that in a line arrangement in the real projective plane with few double points, most lines are tangent to the dual curve of a cubic curve. We provide geometric arguments to prove that in the case of a simplicial arrangement, the aforementioned cubic curve cannot be irreducible. Combining this theorem with a rigidity result on regular simplicial arrangements, we obtain that Grünbaum's conjectural asymptotic classification of simplicial arrangements holds under the additional hypothesis of a linear bound on the number of double points. This is a joint work with Dmitri Panov.
+Wednesday, 9 September, 16:00, E2-106, SC. Introduction to tropical geometry-2.
+
+Thursday, 10 September, 10:00, E2-106, SC.
+
+<details>
+<summary><strong>(Georgy Sokolov) On Erdos-Kleitman problem</strong></summary>
+
+Let e(n, s) denote the maximum number of subsets of an $n$-element set that do not contain $s$ pairwise disjoint sets. The study of e(n, s) was initiated by Erdos in 1960s. Initially, Erdos asked about the case n=ms-1, since he had a plausible conjecture about the extremal family for this case.  Soon after the problem was stated, Kleitman proved the conjecture and also determined e(ms, s). However, the problem turned out to be very hard for other residues of n modulo s. For many regimes even a probable conjecture about the extremal family wasn't known for long time.
+We will discuss a series of recent papers by Frankl and Kupavskii, Kupavskii and Sokolov and by Chi and Wang that led to solving the problem in various new regimes and stating a rather probable general conjecture.
 
 </details>
 
 ---
 
+Thursday, 10 September, 16:00, E2-106, SC.
+
+<details>
+<summary><strong>(Jacob Shubin) Supersaturation in the  Erdős-Sós problem</strong></summary>
+A classical problem of Erdős and Sós asks how large a family of k-element subsets of an n-element set can be if no two members intersect in exactly t elements. We study the corresponding supersaturation problem: for a family of a given size, what is the smallest possible number of pairs that intersect in exactly t elements?
+
+</details>
+
+
+---
+
+Friday, 11 September, 10:00, E2-106, SC.
+
+<details>
+<summary><strong>(Nikolai Terekhov) Entropy and $(k,L)$-Systems</strong></summary>
+
+For an integer $k$ and a set of integers $L$, a $(k,L)$-system is a family of $k$-element subsets such that the size of the intersection of any two distinct members belongs to $L$.
+
+We will show that the asymptotic behavior, as $n\to\infty$, of the maximum size of a $(k,L)$-system on an $n$-element ground set is closely related to almost entropic vectors and information inequalities. In particular, Shannon-type information inequalities will lead to a general upper extending all previously known general bounds.
+
+</details>
+
+Friday, 11 September, 16:00, E2-106, SC.  
   
 <details>
 <summary><strong>(Guillaume Tahar) Resonance hyperplanes arrangements in the moduli theory of differential forms</strong></summary>
@@ -83,70 +178,9 @@ Given a stratum of meromorphic one-forms on a Riemann surface with prescribed or
 ---
 
   
-<details>
-<summary><strong>(Georgy Sokolov) On Erdos-Kleitman problem</strong></summary>
-
-Let e(n, s) denote the maximum number of subsets of an $n$-element set that do not contain $s$ pairwise disjoint sets. The study of e(n, s) was initiated by Erdos in 1960s. Initially, Erdos asked about the case n=ms-1, since he had a plausible conjecture about the extremal family for this case.  Soon after the problem was stated, Kleitman proved the conjecture and also determined e(ms, s). However, the problem turned out to be very hard for other residues of n modulo s. For many regimes even a probable conjecture about the extremal family wasn't known for long time.
-We will discuss a series of recent papers by Frankl and Kupavskii, Kupavskii and Sokolov and by Chi and Wang that led to solving the problem in various new regimes and stating a rather probable general conjecture.
-
-</details>
-
-
----
+14-18 September: TBA
  
-<details>
-<summary><strong>(Nikolai Terekhov) Weak Saturation and the Rank of a Closure System</strong></summary>
-
-The weak saturation number of $K_t$ in $K_n$ is the minimum number of edges in an $n$-vertex graph $F$ such that the missing edges can be added one at a time in some order, with each added edge creating a new copy of the clique $K_t$. Despite the simplicity of this definition, determining these numbers for all $t$ requires a linear-algebraic method, and no combinatorial proof is known.
-
-We will present a more general and natural perspective on weak saturation problems. This framework unifies a number of related questions and helps explain why linear-algebraic methods are so effective in weak saturation numbers.
-
-</details>
-
-
----
- 
-<details>
-<summary><strong>(Nikolai Terekhov) Entropy and $(k,L)$-Systems</strong></summary>
-
-For an integer $k$ and a set of integers $L$, a $(k,L)$-system is a family of $k$-element subsets such that the size of the intersection of any two distinct members belongs to $L$.
-
-We will show that the asymptotic behavior, as $n\to\infty$, of the maximum size of a $(k,L)$-system on an $n$-element ground set is closely related to almost entropic vectors and information inequalities. In particular, Shannon-type information inequalities will lead to a general upper extending all previously known general bounds.
-
-</details>
-
-
----
- 
-<details>
-<summary><strong>(Jacob Shubin) Supersaturation in the  Erdős-Sós problem</strong></summary>
-A classical problem of Erdős and Sós asks how large a family of k-element subsets of an n-element set can be if no two members intersect in exactly t elements. We study the corresponding supersaturation problem: for a family of a given size, what is the smallest possible number of pairs that intersect in exactly t elements?
-
-</details>
-
-
----
-
-<details>
-<summary><strong>(Maksim Klimenko) Covering integer points of euclidean ball by subspaces</strong></summary>
-Let $C \subset \mathbb{R}^n$ be an central-symmetric convex body, and let $g(C)$ denote the minimum number of proper linear subspaces required to cover lattice points inside $C$. In 2002, Bárány, Harcos, Pach, and Tardos established general lower and upper bounds for this quantity. In talk we discuss the connection between this problem and lattice packing densities, and improved upper bounds which rely on this link. Also we will talk about lower bounds and related algorithms
-
-</details>
-
----
-
-<details>
-<summary><strong>(Elizaveta Iarovikova) Intersecting families of linear spaces</strong></summary>
-We discuss large families of k-dimensional subspaces of an n-dimensional space over a finite field such that any two subspaces have intersection of dimension at least t. If n>2k the largest possible family consists of all subspaces that contain a fixed t-dimensional space, if n<2k, the largest example is the family of all subspaces of some fixes (2k-t)-subspace. If n=2k, both example are possible, moreover they are dual. 
-
-We are interested, how large can these families be if they are different from examples discussed above. We will discuss several results in this field and several approaches such as  spread-approximations method and spectral analysis of the Grassman scheme.
-
-</details>
-
----
-
-
-
+21-25 September: TBA
 
 
 **Organiser:** Nikita Kalinin (GTIIT)
