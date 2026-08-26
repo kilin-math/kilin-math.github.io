@@ -68,6 +68,8 @@ In their solution to the orchard-planting problem, Green and Tao established a s
 
 ---
 
+---
+
 Thursday, 3 September 10:15, E2-106, SC.
 
 <details>
@@ -77,6 +79,9 @@ Let $C \subset \mathbb{R}^n$ be an central-symmetric convex body, and let $g(C)$
 </details>
 
 ---
+
+---
+
 
 Thursday, 3 September 16:15, E2-106, SC.
 
@@ -91,6 +96,9 @@ We are interested, how large can these families be if they are different from ex
 
 ---
 
+---
+
+
 Friday, 4 September, 10:15, E2-106, SC.
 
 <details>
@@ -104,6 +112,9 @@ We will present a more general and natural perspective on weak saturation proble
 
 
 ---
+
+---
+
 
 Monday, 7 September, 10:00, E2-106, SC. 2-adic phenomena in sandpiles-1.
 
@@ -124,6 +135,12 @@ Connections between these algebraic structures and recurrent configurations, per
 
 </details>
 
+
+---
+
+---
+
+
 Tuesday, 8 September, 16:00, E2-106, SC.  (Abdul Quadir) Algebraic and Dynamical Structures in Directed Abelian Sandpiles on Cylinder
 
 ---
@@ -131,6 +148,12 @@ Tuesday, 8 September, 16:00, E2-106, SC.  (Abdul Quadir) Algebraic and Dynamical
 Wednesday, 9 September, 10:00, E2-106, SC. Introduction to tropical geometry-1.
 
 Wednesday, 9 September, 16:00, E2-106, SC. Introduction to tropical geometry-2.
+
+
+---
+
+---
+
 
 Thursday, 10 September, 10:00, E2-106, SC.
 
@@ -144,6 +167,9 @@ We will discuss a series of recent papers by Frankl and Kupavskii, Kupavskii and
 
 ---
 
+---
+
+
 Thursday, 10 September, 16:00, E2-106, SC.
 
 <details>
@@ -154,6 +180,9 @@ A classical problem of Erdős and Sós asks how large a family of k-element subs
 
 
 ---
+
+---
+
 
 Friday, 11 September, 10:00, E2-106, SC.
 
@@ -166,6 +195,12 @@ We will show that the asymptotic behavior, as $n\to\infty$, of the maximum size 
 
 </details>
 
+
+---
+
+---
+
+
 Friday, 11 September, 16:00, E2-106, SC.  
   
 <details>
@@ -176,6 +211,9 @@ Given a stratum of meromorphic one-forms on a Riemann surface with prescribed or
 </details>
 
 ---
+
+---
+
 
   
 14-18 September: TBA
