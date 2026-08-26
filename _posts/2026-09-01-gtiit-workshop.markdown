@@ -67,7 +67,7 @@ Wednesday, 2 September, 10:00. (Anrdey Kupavskii) Introduction to extremal combi
 
 
 <details>
-<summary><strong>(Wednesday, 2 September, 10:00, Guillaume Tahar) Simplicial arrangements and the geometry of planar cubic curves</strong></summary>
+<summary><strong>(Wednesday, 2 September, 16:15, Guillaume Tahar) Simplicial arrangements and the geometry of planar cubic curves</strong></summary>
 
 In their solution to the orchard-planting problem, Green and Tao established a structure theorem which proves that in a line arrangement in the real projective plane with few double points, most lines are tangent to the dual curve of a cubic curve. We provide geometric arguments to prove that in the case of a simplicial arrangement, the aforementioned cubic curve cannot be irreducible. Combining this theorem with a rigidity result on regular simplicial arrangements, we obtain that Grünbaum's conjectural asymptotic classification of simplicial arrangements holds under the additional hypothesis of a linear bound on the number of double points. This is a joint work with Dmitri Panov.
 
