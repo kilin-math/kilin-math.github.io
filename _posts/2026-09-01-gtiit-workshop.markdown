@@ -50,22 +50,24 @@ The workshop is deliberately informal. Many of the talks will be about **work in
 
 ### Schedule, abstracts, materials
 The schedule will be updated as talks and discussion sessions are confirmed.
+All talks are in  E2-106, SC. 
 
-Monday, 31 August, 10:00, E2-106, SC. (Nikita Kalinin) Introduction to sandpiles. Open problems.
 
-Monday, 31 August, 16:15, E2-106, SC. (Nikita Kalinin) Introduction to sandpile groups.
+Monday, 31 August, 10:00. (Nikita Kalinin) Introduction to sandpiles. Open problems.
 
-Wednesday, 2 September, 10:00, E2-106, SC. (Anrdey Kupavskii) Introduction to extremal combinatorics.
+Monday, 31 August, 16:15. (Nikita Kalinin) Introduction to sandpile groups.
+
+Wednesday, 2 September, 10:00. (Anrdey Kupavskii) Introduction to extremal combinatorics.
 
 ---
 
 ---
 
 
-Wednesday, 2 September, 10:00, E2-106, SC. 
+
 
 <details>
-<summary><strong>(Guillaume Tahar) Simplicial arrangements and the geometry of planar cubic curves</strong></summary>
+<summary><strong>(Wednesday, 2 September, 10:00, Guillaume Tahar) Simplicial arrangements and the geometry of planar cubic curves</strong></summary>
 
 In their solution to the orchard-planting problem, Green and Tao established a structure theorem which proves that in a line arrangement in the real projective plane with few double points, most lines are tangent to the dual curve of a cubic curve. We provide geometric arguments to prove that in the case of a simplicial arrangement, the aforementioned cubic curve cannot be irreducible. Combining this theorem with a rigidity result on regular simplicial arrangements, we obtain that Grünbaum's conjectural asymptotic classification of simplicial arrangements holds under the additional hypothesis of a linear bound on the number of double points. This is a joint work with Dmitri Panov.
 
@@ -75,10 +77,10 @@ In their solution to the orchard-planting problem, Green and Tao established a s
 
 ---
 
-Thursday, 3 September 10:15, E2-106, SC.
+
 
 <details>
-<summary><strong>(Maksim Klimenko) Covering integer points of euclidean ball by subspaces</strong></summary>
+<summary><strong>(Thursday, 3 September 10:15, Maksim Klimenko) Covering integer points of euclidean ball by subspaces</strong></summary>
 Let $C \subset \mathbb{R}^n$ be an central-symmetric convex body, and let $g(C)$ denote the minimum number of proper linear subspaces required to cover lattice points inside $C$. In 2002, Bárány, Harcos, Pach, and Tardos established general lower and upper bounds for this quantity. In talk we discuss the connection between this problem and lattice packing densities, and improved upper bounds which rely on this link. Also we will talk about lower bounds and related algorithms
 
 </details>
@@ -88,11 +90,11 @@ Let $C \subset \mathbb{R}^n$ be an central-symmetric convex body, and let $g(C)$
 ---
 
 
-Thursday, 3 September 16:15, E2-106, SC.
+
 
 
 <details>
-<summary><strong>(Elizaveta Iarovikova) Intersecting families of linear spaces</strong></summary>
+<summary><strong>(Thursday, 3 September 16:15, Elizaveta Iarovikova) Intersecting families of linear spaces</strong></summary>
 We discuss large families of k-dimensional subspaces of an n-dimensional space over a finite field such that any two subspaces have intersection of dimension at least t. If n>2k the largest possible family consists of all subspaces that contain a fixed t-dimensional space, if n<2k, the largest example is the family of all subspaces of some fixes (2k-t)-subspace. If n=2k, both example are possible, moreover they are dual. 
 
 We are interested, how large can these families be if they are different from examples discussed above. We will discuss several results in this field and several approaches such as  spread-approximations method and spectral analysis of the Grassman scheme.
@@ -104,10 +106,10 @@ We are interested, how large can these families be if they are different from ex
 ---
 
 
-Friday, 4 September, 10:15, E2-106, SC.
+
 
 <details>
-<summary><strong>(Nikolai Terekhov) Weak Saturation and the Rank of a Closure System</strong></summary>
+<summary><strong>(Friday, 4 September, 10:15,  Nikolai Terekhov) Weak Saturation and the Rank of a Closure System</strong></summary>
 
 The weak saturation number of $K_t$ in $K_n$ is the minimum number of edges in an $n$-vertex graph $F$ such that the missing edges can be added one at a time in some order, with each added edge creating a new copy of the clique $K_t$. Despite the simplicity of this definition, determining these numbers for all $t$ requires a linear-algebraic method, and no combinatorial proof is known.
 
@@ -121,19 +123,19 @@ We will present a more general and natural perspective on weak saturation proble
 ---
 
 
-Monday, 7 September, 10:00, E2-106, SC. 2-adic phenomena in sandpiles-1.
+Monday, 7 September, 10:00. 2-adic phenomena in sandpiles-1.
 
-Monday, 7 September, 16:00, E2-106, SC. 2-adic phenomena in sandpiles-2.
-
----
+Monday, 7 September, 16:00. 2-adic phenomena in sandpiles-2.
 
 ---
 
+---
 
-Tuesday, 8 September, 10:00, E2-106, SC.
+
+
  
 <details>
-<summary><strong>(Abdul Quadir) Algebraic and Dynamical Structures in Directed Abelian Sandpiles on Cylinder</strong></summary>
+<summary><strong>(Tuesday, 8 September, 10:00, Abdul Quadir) Algebraic and Dynamical Structures in Directed Abelian Sandpiles on Cylinder</strong></summary>
 
 Self-organized criticality (SOC) describes how slowly driven dissipative systems can spontaneously organize into a critical state without external fine-tuning, exhibiting scale-free avalanches and long-range correlations. The sandpile model provides a paradigmatic realization of SOC, in which the addition of individual grains, followed by local threshold-driven relaxation, generates avalanches across a broad range of scales.
 
@@ -151,7 +153,7 @@ Connections between these algebraic structures and recurrent configurations, per
 ---
 
 
-Tuesday, 8 September, 16:00, E2-106, SC.  (Abdul Quadir) Algebraic and Dynamical Structures in Directed Abelian Sandpiles on Cylinder
+Tuesday, 8 September, 16:00.  (Abdul Quadir) Algebraic and Dynamical Structures in Directed Abelian Sandpiles on Cylinder
 
 ---
  
@@ -165,10 +167,10 @@ Wednesday, 9 September, 16:00, E2-106, SC. Introduction to tropical geometry-2.
 ---
 
 
-Thursday, 10 September, 10:00, E2-106, SC.
+
 
 <details>
-<summary><strong>(Georgy Sokolov) On Erdos-Kleitman problem</strong></summary>
+<summary><strong>(Thursday, 10 September, 10:00,  Georgy Sokolov) On Erdos-Kleitman problem</strong></summary>
 
 Let e(n, s) denote the maximum number of subsets of an $n$-element set that do not contain $s$ pairwise disjoint sets. The study of e(n, s) was initiated by Erdos in 1960s. Initially, Erdos asked about the case n=ms-1, since he had a plausible conjecture about the extremal family for this case.  Soon after the problem was stated, Kleitman proved the conjecture and also determined e(ms, s). However, the problem turned out to be very hard for other residues of n modulo s. For many regimes even a probable conjecture about the extremal family wasn't known for long time.
 We will discuss a series of recent papers by Frankl and Kupavskii, Kupavskii and Sokolov and by Chi and Wang that led to solving the problem in various new regimes and stating a rather probable general conjecture.
@@ -180,10 +182,10 @@ We will discuss a series of recent papers by Frankl and Kupavskii, Kupavskii and
 ---
 
 
-Thursday, 10 September, 16:00, E2-106, SC.
+
 
 <details>
-<summary><strong>(Jacob Shubin) Supersaturation in the  Erdős-Sós problem</strong></summary>
+<summary><strong>(Thursday, 10 September, 16:00, Jacob Shubin) Supersaturation in the  Erdős-Sós problem</strong></summary>
 A classical problem of Erdős and Sós asks how large a family of k-element subsets of an n-element set can be if no two members intersect in exactly t elements. We study the corresponding supersaturation problem: for a family of a given size, what is the smallest possible number of pairs that intersect in exactly t elements?
 
 </details>
@@ -194,10 +196,10 @@ A classical problem of Erdős and Sós asks how large a family of k-element subs
 ---
 
 
-Friday, 11 September, 10:00, E2-106, SC.
+
 
 <details>
-<summary><strong>(Nikolai Terekhov) Entropy and $(k,L)$-Systems</strong></summary>
+<summary><strong>(Friday, 11 September, 10:00, Nikolai Terekhov) Entropy and $(k,L)$-Systems</strong></summary>
 
 For an integer $k$ and a set of integers $L$, a $(k,L)$-system is a family of $k$-element subsets such that the size of the intersection of any two distinct members belongs to $L$.
 
@@ -211,10 +213,10 @@ We will show that the asymptotic behavior, as $n\to\infty$, of the maximum size 
 ---
 
 
-Friday, 11 September, 16:00, E2-106, SC.  
+
   
 <details>
-<summary><strong>(Guillaume Tahar) Resonance hyperplanes arrangements in the moduli theory of differential forms</strong></summary>
+<summary><strong>(Friday, 11 September, 16:00, Guillaume Tahar) Resonance hyperplanes arrangements in the moduli theory of differential forms</strong></summary>
 
 Given a stratum of meromorphic one-forms on a Riemann surface with prescribed orders of zeros and poles, the residual map assigns to each differential the collection of its residues at the poles. In this talk, we will review the topological features of the residual map: the characterization of its singular locus, the topology of its isoresidual fibers, and, if time allows, its monodromy.In the complex vector space of residue configurations, the resonance arrangement is the union of the hyperplanes defined by the vanishing of a nontrivial partial sum of residues. This complex hyperplane arrangement is closely related to the braid arrangement, but its topological and combinatorial properties remain largely unknown. We show that, over each open flat of the stratification induced by the resonance arrangement, the restriction of the residual map is a topological fibration. This result follows from a geometric interpretation of meromorphic differentials in terms of translation structures, which we will explain for strata with one or two zeros. This is joint work, mostly with Dawei Chen, Quentin Gendron, Miguel Prado, and Nick Salter.
 
