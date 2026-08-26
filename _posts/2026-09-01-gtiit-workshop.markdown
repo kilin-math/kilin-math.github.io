@@ -57,6 +57,11 @@ Monday, 31 August, 16:15, E2-106, SC. (Nikita Kalinin) Introduction to sandpile 
 
 Wednesday, 2 September, 10:00, E2-106, SC. (Anrdey Kupavskii) Introduction to extremal combinatorics.
 
+---
+
+---
+
+
 Wednesday, 2 September, 10:00, E2-106, SC. 
 
 <details>
@@ -119,6 +124,11 @@ We will present a more general and natural perspective on weak saturation proble
 Monday, 7 September, 10:00, E2-106, SC. 2-adic phenomena in sandpiles-1.
 
 Monday, 7 September, 16:00, E2-106, SC. 2-adic phenomena in sandpiles-2.
+
+---
+
+---
+
 
 Tuesday, 8 September, 10:00, E2-106, SC.
  
