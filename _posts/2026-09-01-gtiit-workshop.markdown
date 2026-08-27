@@ -248,21 +248,21 @@ Pell equation $X^2 -dY^2 = \pm 1$, then the equation $Y_m = F_n$ has at most two
 <summary><strong>(Faith Shadow Zottor) A $p$-adic ($p\equiv 3 \pmod 4$) depth-$5$ supercongruence for Gaussian $p$-th power sums over a square </strong></summary>
 
 For an odd prime $p$, define
-\[
+$$
 G_n(p)=
 \sum_{a=1}^{p-1}\sum_{b=1}^{p-1}(a+bi)^n
 \in\mathbb Z[i].
-\]
+$$
 We study the $p$-adic valuation of these Gaussian power sums for $n\leq p, n=r(p-1)$ and show
 that it is governed by the interaction of the fourfold symmetry of the
 square, ordinary power-sum congruences, and Bernoulli numbers.
 
 If $p\equiv3\pmod4$ and $p\ge7$, then we prove an unexpectedly deep supercongruence
-\[
+$$
 G_p(p)\equiv
 -\frac{p^5}{12}(p-1)^2(p-2)(1-i)B_{p-3}
 \pmod{p^6}.
-\]
+$$
 </details>
 
 ---
