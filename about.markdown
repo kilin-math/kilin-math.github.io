@@ -22,7 +22,7 @@ Interests: sandpiles; tropical geometry; analytic/elementary number theory aroun
 
 - [Tropical curves in sandpile models](https://doi.org/10.1016/j.aim.2026.111127), with Mikhail Shkolnikov, *Advances in Mathematics* **502** (2026), 111127.
 
-- [Topology of a uniform spanning tree on a cylinder](https://doi.org/10.1088/1402-4896/ae935e), with D. Rakhmankin, *Physica Scripta* **101** (2026), 325204.
+- [Topology of a uniform spanning tree on a cylinder](https://doi.org/10.1088/1402-4896/ae935e), with Denis Rakhmankin, *Physica Scripta* **101** (2026), 325204.
 
 - [Limits of equi-affine equi-distant loci of planar convex domains with two non-parallel asymptotes](https://doi.org/10.3842/SIGMA.2026.071), with Mikhail Shkolnikov, *SIGMA* **22** (2026), 071.
 

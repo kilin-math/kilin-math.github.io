@@ -212,8 +212,6 @@ We will show that the asymptotic behavior, as $n\to\infty$, of the maximum size 
 
 ---
 
-
-
   
 <details>
 <summary><strong>(Friday, 11 September, 16:00, Guillaume Tahar) Resonance hyperplanes arrangements in the moduli theory of differential forms</strong></summary>
@@ -229,6 +227,45 @@ Given a stratum of meromorphic one-forms on a Riemann surface with prescribed or
 
   
 14-18 September: TBA
+
+---
+
+  
+<details>
+<summary><strong>(Faith Shadow Zottor) On Y-coordinate of Pell equations which are  Fibonacci numbers</strong></summary>
+
+Let $d \geq 2$ be an integer which is not a square. We show that if
+$(F_n)_{n\geq 0}$ is the Fibonacci sequence and $(X_m, Y_m)_{m\geq 1}$ is the $m$th solution of the
+Pell equation $X^2 -dY^2 = \pm 1$, then the equation $Y_m = F_n$ has at most two positive integer solutions $(m,n)$ except for $d=2$ when it has three solutions $(m,n)=(1,2),(2,3),(3,5)$.
+
+</details>
+
+---
+---
+
+  
+<details>
+<summary><strong>(Faith Shadow Zottor) A $p$-adic ($p\equiv 3 \pmod 4$) depth-$5$ supercongruence for Gaussian $p$-th power sums over a square </strong></summary>
+
+For an odd prime $p$, define
+\[
+G_n(p)=
+\sum_{a=1}^{p-1}\sum_{b=1}^{p-1}(a+bi)^n
+\in\mathbb Z[i].
+\]
+We study the $p$-adic valuation of these Gaussian power sums for $n\leq p, n=r(p-1)$ and show
+that it is governed by the interaction of the fourfold symmetry of the
+square, ordinary power-sum congruences, and Bernoulli numbers.
+
+If $p\equiv3\pmod4$ and $p\ge7$, then we prove an unexpectedly deep supercongruence
+\[
+G_p(p)\equiv
+-\frac{p^5}{12}(p-1)^2(p-2)(1-i)B_{p-3}
+\pmod{p^6}.
+\]
+</details>
+
+---
  
 21-25 September: TBA
 
