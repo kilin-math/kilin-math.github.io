@@ -57,13 +57,16 @@ Monday, 31 August, 10:00. (Nikita Kalinin) Introduction to sandpiles. Open probl
 
 Monday, 31 August, 16:15. (Nikita Kalinin) Introduction to sandpile groups.
 
-Wednesday, 2 September, 10:00. (Anrdey Kupavskii) Introduction to extremal combinatorics.
 
+<details>
+<summary><strong>(Wednesday, 2 September, 10:00, Andrey Kupavskii) Intersection theorems</strong></summary>
+
+I'll discuss some of the basic results in extremal set theory: Erdos-Ko-Rado theorem, Katona's theorem, as well as some of the classical methods.
+
+</details>
 ---
 
 ---
-
-
 
 
 <details>
