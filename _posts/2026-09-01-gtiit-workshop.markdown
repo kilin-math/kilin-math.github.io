@@ -120,6 +120,14 @@ We will present a more general and natural perspective on weak saturation proble
 
 </details>
 
+---
+
+<summary><strong>(Friday, 4 September, 13:30,  Evgeny Smirnov) Aztec diamond and/or the Kasteleyn theorem on the number of tilings of a rectangle</strong></summary>
+
+
+</details>
+
+
 
 ---
 
