@@ -125,8 +125,6 @@ We will present a more general and natural perspective on weak saturation proble
 <summary><strong>(Friday, 4 September, 13:30,  Evgeny Smirnov) Aztec diamond and/or the Kasteleyn theorem on the number of tilings of a rectangle</strong></summary>
 
 
-</details>
-
 
 
 ---
@@ -167,11 +165,19 @@ Connections between these algebraic structures and recurrent configurations, per
 Tuesday, 8 September, 16:00.  (Abdul Quadir) Algebraic and Dynamical Structures in Directed Abelian Sandpiles on Cylinder
 
 ---
- 
-Wednesday, 9 September, 10:00, E2-106, SC. Introduction to tropical geometry-1.
 
-Wednesday, 9 September, 16:00, E2-106, SC. Introduction to tropical geometry-2.
+<details>
+<summary><strong>(Wednesday, 9 September, 10:00,  Mikhail Shkolnikov) Basics of Tropical Relaxation</strong></summary>
+We we’ll cover an operational minimum on relaxation in tropical sandpiles, 
+including singularities and deformations of tropical series on planar convex domains needed 
+to state the stochastic approach to numerically solving Monge-Ampère equation.
+</details>
 
+<details>
+<summary><strong>(Wednesday, 9 September, 16:00,  Mikhail Shkolnikov) Faster Solvers, Boundary Conditions, and the question of Zeno</strong></summary>
+During this time together, we will try to distribute the labour in a project of adopting the setup discussed in the morning to an industrial-level solver of the MA nonlinear PDE, as well as review the status of related open problems.
+
+</details>
 
 ---
 
@@ -243,7 +249,7 @@ Given a stratum of meromorphic one-forms on a Riemann surface with prescribed or
 
   
 <details>
-<summary><strong>(Faith Shadow Zottor) On Y-coordinate of Pell equations which are  Fibonacci numbers</strong></summary>
+<summary><strong>(Thursday, 24 September, 16:00, Faith Shadow Zottor) On Y-coordinate of Pell equations which are  Fibonacci numbers</strong></summary>
 
 Let $d \geq 2$ be an integer which is not a square. We show that if
 $(F_n)_{n\geq 0}$ is the Fibonacci sequence and $(X_m, Y_m)_{m\geq 1}$ is the $m$th solution of the
@@ -256,7 +262,7 @@ Pell equation $X^2 -dY^2 = \pm 1$, then the equation $Y_m = F_n$ has at most two
 
   
 <details>
-<summary><strong>(Faith Shadow Zottor) A $p$-adic ($p\equiv 3 \pmod 4$) depth-$5$ supercongruence for Gaussian $p$-th power sums over a square </strong></summary>
+<summary><strong>(Friday, 25 September, 16:00, Faith Shadow Zottor) A $p$-adic ($p\equiv 3 \pmod 4$) depth-$5$ supercongruence for Gaussian $p$-th power sums over a square </strong></summary>
 
 For an odd prime $p$, define
 $$
