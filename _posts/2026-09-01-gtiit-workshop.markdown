@@ -196,8 +196,8 @@ During this time together, we will try to distribute the labour in a project of 
 
 
 <details>
-<summary><strong>(Thursday, 10 September, 16:00, Jacob Shubin) Supersaturation in the  Erdős-Sós problem</strong></summary>
-A classical problem of Erdős and Sós asks how large a family of k-element subsets of an n-element set can be if no two members intersect in exactly t elements. We study the corresponding supersaturation problem: for a family of a given size, what is the smallest possible number of pairs that intersect in exactly t elements?
+<summary><strong>(Thursday, 10 September, 16:00, Jacob Shubin) Algebraic Approaches to Intersecting Families of Finite Sets</strong></summary>
+Using the Johnson association scheme and the representation theory of the symmetric group, we describe the relevant eigenspaces and eigenvalues. As an application, we derive the Erdős–Ko–Rado theorem via Hoffman's bound.
 
 </details>
 
