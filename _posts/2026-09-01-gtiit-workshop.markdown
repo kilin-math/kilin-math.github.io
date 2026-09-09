@@ -219,7 +219,7 @@ We will show that the asymptotic behavior, as $n\to\infty$, of the maximum size 
 </details>
 
 <details>
-<summary><strong>(Friday, 11 September, 11:00,  Georgy Sokolov) Introduction to Erdos Matching Conjecture/strong></summary>
+<summary><strong>(Friday, 11 September, 11:00,  Georgy Sokolov) Introduction to Erdos Matching Conjecture</strong></summary>
 
 One of the most famous open problem in extremal set theory asks for the largest possible size of a family of k-element subsets of an n-element set, that does not contain s pairwise disjoint sets. The problem is usually refered as the Erdos Matching Conjecture, since Erdos made a very probable conjecture about the answer. In the lecture I will give an overview of the problem and related results and discuss a method, based on some clever averaging, that was used to prove the conjecture in some regimes.
 
