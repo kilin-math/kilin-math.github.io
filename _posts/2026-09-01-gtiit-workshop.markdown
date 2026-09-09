@@ -186,13 +186,7 @@ During this time together, we will try to distribute the labour in a project of 
 
 
 
-<details>
-<summary><strong>(Thursday, 10 September, 10:00,  Georgy Sokolov) On Erdos-Kleitman problem</strong></summary>
 
-Let e(n, s) denote the maximum number of subsets of an $n$-element set that do not contain $s$ pairwise disjoint sets. The study of e(n, s) was initiated by Erdos in 1960s. Initially, Erdos asked about the case n=ms-1, since he had a plausible conjecture about the extremal family for this case.  Soon after the problem was stated, Kleitman proved the conjecture and also determined e(ms, s). However, the problem turned out to be very hard for other residues of n modulo s. For many regimes even a probable conjecture about the extremal family wasn't known for long time.
-We will discuss a series of recent papers by Frankl and Kupavskii, Kupavskii and Sokolov and by Chi and Wang that led to solving the problem in various new regimes and stating a rather probable general conjecture.
-
-</details>
 
 ---
 
@@ -216,11 +210,18 @@ A classical problem of Erdős and Sós asks how large a family of k-element subs
 
 
 <details>
-<summary><strong>(Friday, 11 September, 10:00, Nikolai Terekhov) Entropy and $(k,L)$-Systems</strong></summary>
+<summary><strong>(Friday, 11 September, 9:30, Nikolai Terekhov) Entropy and $(k,L)$-Systems</strong></summary>
 
 For an integer $k$ and a set of integers $L$, a $(k,L)$-system is a family of $k$-element subsets such that the size of the intersection of any two distinct members belongs to $L$.
 
 We will show that the asymptotic behavior, as $n\to\infty$, of the maximum size of a $(k,L)$-system on an $n$-element ground set is closely related to almost entropic vectors and information inequalities. In particular, Shannon-type information inequalities will lead to a general upper extending all previously known general bounds.
+
+</details>
+
+<details>
+<summary><strong>(Friday, 11 September, 11:00,  Georgy Sokolov) Introduction to Erdos Matching Conjecture/strong></summary>
+
+One of the most famous open problem in extremal set theory asks for the largest possible size of a family of k-element subsets of an n-element set, that does not contain s pairwise disjoint sets. The problem is usually refered as the Erdos Matching Conjecture, since Erdos made a very probable conjecture about the answer. In the lecture I will give an overview of the problem and related results and discuss a method, based on some clever averaging, that was used to prove the conjecture in some regimes.
 
 </details>
 
