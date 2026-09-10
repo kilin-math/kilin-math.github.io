@@ -247,6 +247,39 @@ Given a stratum of meromorphic one-forms on a Riemann surface with prescribed or
 14-18 September: TBA
 
 ---
+----
+
+<details>
+<summary><strong>(Thursday, 21 September, 10:00, Higinio Serrano) The Hard-Core Farey Gas</strong></summary>
+
+To a strictly convex $C^3$ arc $\Gamma$ whose normals fill a unimodular cone we
+associate a statistical-mechanical ensemble built on the Stern--Brocot tree.
+After normalizing the normal directions to $[0,1]$ by an $SL_2(\mathbb{Z})$
+change of coordinates, the vertices of the tree index Farey sectors, each
+weighted by a geometric quantity $\delta_\Gamma(I)$ --- the size of the
+tangent-triangle cap cut from $\Gamma$ over the sector. Declaring two sectors
+incompatible when they are comparable in the tree, the admissible configurations
+are the finite antichains, and the finite-volume partition function is
+
+$$
+  \Xi_\Lambda(\lambda;s)
+  = \sum_{\substack{A \subseteq \Lambda \\ A \text{ an antichain}}}
+    \lambda^{|A|} \prod_{I \in A} \delta_\Gamma(I)^{s},
+$$
+
+a polynomial in $\lambda$ with coefficients entire in $s$.
+
+I will explain how this hard-core polymer gas encodes the approximation of
+$\Gamma$ by lattice polygons: the single-particle sum is a Farey zeta function of the curve. The main
+point is the analytic and geometric meaning of its abscissa of convergence,
+which sits at $s = 2/3$ and marks a genuine transition
+in the ensemble: a change from configurations dominated by finitely many coarse
+sectors to configurations proliferating sectors at every scale. I will develop
+the tree recursion (cavity equations) behind these statements and, time
+permitting, the primon-gas analogy that gives the model its
+statistical-mechanical name.
+
+</details>
 
   
 <details>
