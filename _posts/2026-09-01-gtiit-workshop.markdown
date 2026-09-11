@@ -134,7 +134,7 @@ We will present a more general and natural perspective on weak saturation proble
 
 Monday, 7 September, 10:00. 2-adic phenomena in sandpiles-1.
 
-Monday, 7 September, 16:00. 2-adic phenomena in sandpiles-2. https://arxiv.org/abs/2609.10625
+Monday, 7 September, 16:00. 2-adic phenomena in sandpiles-2. [solution](https://arxiv.org/abs/2609.10625)
 
 ---
 
