@@ -250,7 +250,7 @@ Given a stratum of meromorphic one-forms on a Riemann surface with prescribed or
 ----
 
 <details>
-<summary><strong>(Thursday, 21 September, 10:00, Higinio Serrano) The Hard-Core Farey Gas</strong></summary>
+<summary><strong>(Wednesday, 21 September, 14:00, Higinio Serrano) The Hard-Core Farey Gas</strong></summary>
 
 To a strictly convex $C^3$ arc $\Gamma$ whose normals fill a unimodular cone we
 associate a statistical-mechanical ensemble built on the Stern--Brocot tree.
@@ -318,7 +318,6 @@ $$
 
 ---
  
-21-25 September: TBA
 
 
 **Organiser:** Nikita Kalinin (GTIIT)
