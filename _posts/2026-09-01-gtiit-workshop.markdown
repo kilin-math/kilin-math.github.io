@@ -245,7 +245,7 @@ Given a stratum of meromorphic one-forms on a Riemann surface with prescribed or
 
   
 <details>
-<summary><strong>(Wednesday, 16 September, 10:00, Peter Petrov) An invitation to p-adic numbers: Monsky´s theorem</strong></summary>
+<summary><strong>(Wednesday, 16 September, 14:00, Peter Petrov) An invitation to p-adic numbers: Monsky´s theorem</strong></summary>
 
 
   In this talk we shall prove the famous theorem of Paul Monsky about equiareal     triangulations of square. We shall discuss the Sperner lemma, then will be a brief introduction to p-adic numbers, and finally, we will see some generalizations and open problems about the result.
