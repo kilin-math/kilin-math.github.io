@@ -242,14 +242,10 @@ Given a stratum of meromorphic one-forms on a Riemann surface with prescribed or
 
 ---
 
-<details>
-<summary><strong>(Monday, 14 September, 10:00, Nikita Kalinin) One-dimensional tropical series</strong></summary>
+(Monday, 14 September, 10:00, Nikita Kalinin) One-dimensional tropical series
 
-</details>
+(Tuesday, 14 September, 14:00, Nikita Kalinin) Two-dimensional tropical series and Monge--Ampere equation
 
-<summary><strong>(Tuesday, 14 September, 14:00, Nikita Kalinin) Two-dimensional tropical series and Monge--Ampere equation</strong></summary>
-
-</details>
   
 <details>
 <summary><strong>(Wednesday, 16 September, 14:00, Peter Petrov) An invitation to p-adic numbers: Monsky´s theorem</strong></summary>
@@ -262,15 +258,9 @@ Given a stratum of meromorphic one-forms on a Riemann surface with prescribed or
 ----
 ----
 
-<summary><strong>(Thursday, 17 September, 10:00, Nikita Kalinin) Main statement of the tropical Monge-Ampere</strong></summary>
+(Thursday, 17 September, 10:00, Nikita Kalinin) Main statement of the tropical Monge-Ampere
 
-</details>
-
-<details>
-<summary><strong>(Friday, 18 September, 14:00, Peter Petrov) An invitation to p-adic numbers: Monsky´s theorem-2</strong></summary>
-
-
-</details>
+(Friday, 18 September, 14:00, Peter Petrov) An invitation to p-adic numbers: Monsky´s theorem-2
 
 
 
