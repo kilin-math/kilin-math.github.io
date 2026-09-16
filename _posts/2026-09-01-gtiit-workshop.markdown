@@ -242,7 +242,14 @@ Given a stratum of meromorphic one-forms on a Riemann surface with prescribed or
 
 ---
 
+<details>
+<summary><strong>(Monday, 14 September, 10:00, Nikita Kalinin) One-dimensional tropical series</strong></summary>
 
+</details>
+
+<summary><strong>(Tuesday, 14 September, 14:00, Nikita Kalinin) Two-dimensional tropical series and Monge--Ampere equation</strong></summary>
+
+</details>
   
 <details>
 <summary><strong>(Wednesday, 16 September, 14:00, Peter Petrov) An invitation to p-adic numbers: Monsky´s theorem</strong></summary>
@@ -255,7 +262,15 @@ Given a stratum of meromorphic one-forms on a Riemann surface with prescribed or
 ----
 ----
 
+<summary><strong>(Thursday, 17 September, 10:00, Nikita Kalinin) Main statement of the tropical Monge-Ampere</strong></summary>
 
+</details>
+
+<details>
+<summary><strong>(Friday, 18 September, 14:00, Peter Petrov) An invitation to p-adic numbers: Monsky´s theorem-2</strong></summary>
+
+
+</details>
 
 
 
@@ -291,6 +306,10 @@ statistical-mechanical name.
 
 </details>
 
+<details>
+<summary><strong>(Tuesday, 22 September, 14:00, Peter Petrov) An invitation to p-adic numbers: Monsky´s theorem-3</strong></summary>
+Igusa integration, etc.
+</details>
   
 <details>
 <summary><strong>(Thursday, 24 September, 16:00, Faith Shadow Zottor) On Y-coordinate of Pell equations which are  Fibonacci numbers</strong></summary>
