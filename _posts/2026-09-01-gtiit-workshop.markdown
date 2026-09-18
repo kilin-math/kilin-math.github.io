@@ -260,7 +260,8 @@ Given a stratum of meromorphic one-forms on a Riemann surface with prescribed or
 
 (Thursday, 17 September, 10:00, Nikita Kalinin) Main statement of the tropical Monge-Ampere
 
-(Friday, 18 September, 14:00, Peter Petrov) An invitation to p-adic numbers: Monsky´s theorem-2
+(Friday, 18 September, 14:00, Peter Petrov) An invitation to p-adic numbers: Monsky´s theorem-2, (see details [here](https://glennsun.com/docs/mcsp-2025/monsky.pdf))
+
 
 
 
@@ -297,8 +298,17 @@ statistical-mechanical name.
 </details>
 
 <details>
-<summary><strong>(Tuesday, 22 September, 14:00, Peter Petrov) An invitation to p-adic numbers: Monsky´s theorem-3</strong></summary>
-Igusa integration, etc.
+<summary><strong>(Tuesday, 2 September, 14:00, Mikhail Shkolnikov) Averaging out the lattice as a way to pass from tropical to affine  </strong></summary>
+The talk will be focused on a few things proven and several suggestions made in a recently published paper with Nikita Kalinin where a particular connection between tropical and affine geometries is introduced. The main construction consists of averaging a tropical distance series of a convex domain over the space of underlying tropical structures leading to equiafine geometric entities. I will spend some time to go through the main steps of the average’s convergence statement which consist of combining some classical tools from the geometry of numbers due to Minkowski and Siegel. Then we will pass to the problem of determining the limit structure of level sets, and compute the value of the average in the centre of the unit disc (in fact, so far this is the only nontrivial value we know explicitly). At the end, I will enumerate unresolved questions and conjectures inviting everyone take part in walking in this direction.
+
+(see details [here](https://sigma-journal.com/2026/071/))
+
+</details>
+
+
+<details>
+<summary><strong>(Wednesday, 23 September, 14:00, Peter Petrov) An invitation to p-adic numbers: Monsky´s theorem-3</strong></summary>
+Igusa zeta function, p-adic integration, etc.
 </details>
   
 <details>
@@ -310,7 +320,6 @@ Pell equation $X^2 -dY^2 = \pm 1$, then the equation $Y_m = F_n$ has at most two
 
 </details>
 
----
 ---
 
   
