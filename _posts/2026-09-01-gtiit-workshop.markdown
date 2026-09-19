@@ -322,7 +322,9 @@ Pell equation $X^2 -dY^2 = \pm 1$, then the equation $Y_m = F_n$ has at most two
 
 ---
 
+(Friday, 25 September, 10:00, Max Karev) Interpolation between complex and real Hurwitz numbers: progress report
   
+---
 <details>
 <summary><strong>(Friday, 25 September, 16:00, Faith Shadow Zottor) A $p$-adic ($p\equiv 3 \pmod 4$) depth-$5$ supercongruence for Gaussian $p$-th power sums over a square </strong></summary>
 
