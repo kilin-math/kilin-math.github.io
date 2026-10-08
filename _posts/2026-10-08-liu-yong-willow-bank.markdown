@@ -5,7 +5,7 @@ date: 2026-10-08 00:22:00 +0800
 categories: chinese poetry
 ---
 
-![A painting of a boat and willow bank, photographed at Lingyin Temple, Hangzhou](/assets/pics/liu-yong-boat.jpg){: style="display: block; margin: auto; width: 30em; max-width: 100%;"}
+![A painting of a boat and willow bank, photographed at Lingyin Temple, Hangzhou](/assets/pics/liu-yong-boat.png){: style="display: block; margin: auto; width: 30em; max-width: 100%;"}
 
 I saw this painting in a room at Lingyin Temple in Hangzhou. Its inscription quotes one of the most famous passages in Chinese poetry, by **Liu Yong** (柳永, Northern Song dynasty):
 
