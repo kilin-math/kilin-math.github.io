@@ -7,9 +7,9 @@ categories: numbers
 
 Here is a small puzzle. Why is
 
-$$
+$
 \sum_{\substack{m,n\geq1\cr (m,n)=1}}\frac{1}{(m^2+1)(n^2+1)}=1\,?
-$$
+$
 
 In fact, a parameter gives the slightly surprising identity
 
