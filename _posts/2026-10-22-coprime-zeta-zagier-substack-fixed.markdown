@@ -204,7 +204,7 @@ $
 But (12) is also what we get by *forgetting coprimality*. Indeed, grouping all positive pairs by their greatest common divisor and using (1),
 
 $
-\begin{aligned} A(r)^2=\sum_{d\geq1}\frac1{d^4}S\!\left(\frac{r}{d^2}\right)\\=\sum_{d\geq1}\frac{5d^2-3r}{2d^2(d^2-r)^2}\\=\sum_{d\geq1}\left[\frac1{(d^2-r)^2}+\frac{3}{2r}\left(\frac1{d^2-r}-\frac1{d^2}\right)\right],\end{aligned}
+\begin{aligned} A(r)^2=\sum_{d\geq1}\frac1{d^4}S\!\left(\frac{r}{d^2}\right)=\sum_{d\geq1}\frac{5d^2-3r}{2d^2(d^2-r)^2}=\sum_{d\geq1}\left[\frac1{(d^2-r)^2}+\frac{3}{2r}\left(\frac1{d^2-r}-\frac1{d^2}\right)\right],\end{aligned}
 $
 
 which is exactly (12). Conversely, Mobius inversion gives $S(r)=\sum_{d\geq1}\mu(d)d^{-4}A(r/d^2)^2$. Thus (1) is the **coprime version of the cotangent Riccati equation**.
