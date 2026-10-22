@@ -8,13 +8,13 @@ categories: numbers
 Here is a small puzzle. Why is
 
 $
-\sum_{\substack{m,n\geq1\\\\(m,n)=1}}\frac{1}{(m^2+1)(n^2+1)}=1\,?
+\sum_{\substack{m,n\geq1\cr (m,n)=1}}\frac{1}{(m^2+1)(n^2+1)}=1\,?
 $
 
 In fact, a parameter gives the slightly surprising identity
 
 $
-\boxed{\displaystyle \sum_{\substack{m,n\geq1\\\\(m,n)=1}}\frac{1}{(m^2-r)(n^2-r)}=\frac{5-3r}{2(1-r)^2}.} \qquad\text{(1)}
+\boxed{\displaystyle \sum_{\substack{m,n\geq1\cr (m,n)=1}}\frac{1}{(m^2-r)(n^2-r)}=\frac{5-3r}{2(1-r)^2}.} \qquad\text{(1)}
 $
 
 It holds for every real $r<1$, and indeed for every complex $r$ which is not a positive integer square. The summands have poles at all integer squares, but the answer has a pole only at $r=1$. Where did all the others go?
@@ -26,7 +26,7 @@ We give two proofs: one by Euler's convolution of even zeta values, the other by
 For $\Re s,\Re t>1$, separating the greatest common divisor in the product $\zeta(s)\zeta(t)$ gives
 
 $
-\sum_{\substack{m,n\geq1\\\\(m,n)=1}}\frac{1}{m^s n^t}=\frac{\zeta(s)\zeta(t)}{\zeta(s+t)}. \qquad\text{(2)}
+\sum_{\substack{m,n\geq1\cr (m,n)=1}}\frac{1}{m^s n^t}=\frac{\zeta(s)\zeta(t)}{\zeta(s+t)}. \qquad\text{(2)}
 $
 
 Write $S(r)$ for the left side of (1). For $\lvert r\rvert<1$, geometric expansion and (2) give
@@ -88,7 +88,7 @@ enumerate all coprime positive pairs except $(1,1)$. Summing (5) ought to leave 
 Here is the small convergence detail. Let $Q_N$ be the coprime pairs with $1\leq m,n\leq N$. Cancellation gives
 
 $
-\sum_{(m,n)\in Q_N}\Delta H_r(m,n)=H_r(1,1)-\sum_{\substack{(m,n)\in Q_N\\\\m+n>N}}\bigl(H_r(m+n,n)+H_r(m,m+n)\bigr).
+\sum_{(m,n)\in Q_N}\Delta H_r(m,n)=H_r(1,1)-\sum_{\substack{(m,n)\in Q_N\cr m+n>N}}\bigl(H_r(m+n,n)+H_r(m,m+n)\bigr).
 $
 
 For fixed $r$ away from the positive squares,
@@ -110,7 +110,7 @@ $
 His key observation is
 
 $
-\boxed{\displaystyle \Delta f_k(m,n)=\sum_{\substack{2\leq j\leq k-2\\\\j\ \mathrm{even}}}\frac{1}{m^j n^{k-j}}.} \qquad\text{(7)}
+\boxed{\displaystyle \Delta f_k(m,n)=\sum_{\substack{2\leq j\leq k-2\cr j\ \mathrm{even}}}\frac{1}{m^j n^{k-j}}.} \qquad\text{(7)}
 $
 
 In fact, our rational function (4) is nothing but the generating function of all these $f_k$:
@@ -142,7 +142,7 @@ $
 As above, take finite square cutoffs first: $f_k$ satisfies the same type of bound as $H_r$, and the boundary error tends to zero. The right side of (7), summed over all pairs, is $\sum_{2\leq j\leq k-2,\ j\ \mathrm{even}}\zeta(j)\zeta(k-j)$. Therefore
 
 $
-\boxed{\displaystyle \sum_{\substack{2\leq j\leq k-2\\\\j\ \mathrm{even}}}\zeta(j)\zeta(k-j)=\frac{k+1}{2}\zeta(k)\qquad(k\geq4\ \mathrm{even}).}
+\boxed{\displaystyle \sum_{\substack{2\leq j\leq k-2\cr j\ \mathrm{even}}}\zeta(j)\zeta(k-j)=\frac{k+1}{2}\zeta(k)\qquad(k\geq4\ \mathrm{even}).}
 $
 
 This is Euler's formula (3). Zagier's summation over *all* pairs leaves the diagonal; summation over *coprime* pairs leaves just its first point $(1,1)$.
@@ -152,7 +152,7 @@ This is Euler's formula (3). Zagier's summation over *all* pairs leaves the diag
 There is an unexpectedly simple answer. For every integer $k\geq2$,
 
 $
-\boxed{\displaystyle \sum_{\substack{n\geq1\\\\(n,k)=1}}\frac{1}{n^2-k^2}=0.} \qquad\text{(9)}
+\boxed{\displaystyle \sum_{\substack{n\geq1\cr (n,k)=1}}\frac{1}{n^2-k^2}=0.} \qquad\text{(9)}
 $
 
 Indeed,
@@ -164,7 +164,7 @@ $
 Since coprimality with $k$ is unchanged by translating an integer by $k$, shifting the two sums (first with a finite cutoff) reduces their difference to
 
 $
-\frac{1}{2k}\sum_{\substack{-k<t<k\\\\(t,k)=1}}\frac1t=0,
+\frac{1}{2k}\sum_{\substack{-k<t<k\cr (t,k)=1}}\frac1t=0,
 $
 
 by pairing $t$ with $-t$; the cutoff error is $O_k(N^{-1})$. The residue of the double sum at $r=k^2$ is $-2$ times the left side of (9), so it vanishes. Thus the apparent singularities at $4,9,16,\ldots$ are removable. The original summands are undefined there, of course, but the sum has a finite analytic continuation.
@@ -172,13 +172,13 @@ by pairing $t$ with $-t$; the cutoff error is $O_k(N^{-1})$. The residue of the 
 Two more consequences are worth recording. By symmetry, the diagonal contributes only $(m,n)=(1,1)$, and so (1) gives the even simpler identity
 
 $
-\boxed{\displaystyle \sum_{\substack{1\leq m<n\\\\(m,n)=1}}\frac{1}{(m^2-r)(n^2-r)}=\frac{3}{4(1-r)}.} \qquad\text{(10)}
+\boxed{\displaystyle \sum_{\substack{1\leq m<n\cr (m,n)=1}}\frac{1}{(m^2-r)(n^2-r)}=\frac{3}{4(1-r)}.} \qquad\text{(10)}
 $
 
 Also, restricting to pairs of *fixed* greatest common divisor $d$, rather than to coprime pairs, amounts to replacing $(m,n)$ by $(dm,dn)$:
 
 $
-\sum_{\substack{m,n\geq1\\\\(m,n)=d}}\frac{1}{(m^2-r)(n^2-r)}=\frac{5d^2-3r}{2d^2(d^2-r)^2}. \qquad\text{(11)}
+\sum_{\substack{m,n\geq1\cr (m,n)=d}}\frac{1}{(m^2-r)(n^2-r)}=\frac{5d^2-3r}{2d^2(d^2-r)^2}. \qquad\text{(11)}
 $
 
 ## The cotangent behind the sum
