@@ -11,7 +11,7 @@ $
 \boxed{\sum_{\substack{m,n\geq 1\\\\\gcd(m,n)=1}} \frac{1}{(m^2-a^2)(n^2-a^2)} =\frac{5-3a^2}{2(1-a^2)^2}.} \qquad\text{(1)}
 $
 
-At $a=0$, it says that
+It seems to be new, unknown and cool, but not that important to write an article about it. At $a=0$, it says that
 
 $
 \sum_{\substack{m,n\geq1\\\\\gcd(m,n)=1}}\frac{1}{m^2n^2} =\frac{\zeta(2)^2}{\zeta(4)}=\frac52.
